@@ -9,8 +9,9 @@ It uses Ubuntu 22.04 and Node.js 22.23.2 to:
 3. run Vitest, ESLint, TypeScript, and the Next.js production build;
 4. package the Next.js standalone server, static assets, and public assets;
 5. verify the TAR structure and portable SHA256 checksum;
-6. start the packaged server and call `/api/health/live`;
-7. upload the verified files as the `soccerxcamp-papaki-linux-release` Actions artifact.
+6. audit packaged `*.node`, `*.so`, and versioned shared libraries against the Papaki `GLIBC_2.28` ceiling;
+7. start the packaged server and call `/api/health/live`;
+8. upload the verified files as the `soccerxcamp-papaki-linux-release` Actions artifact.
 
 The downloadable artifact contains:
 
