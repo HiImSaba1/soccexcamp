@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { ReactNode } from "react";
 import { cookies } from "next/headers";
 import localFont from "next/font/local";
 import { AppShell } from "@/components/layout/AppShell";
@@ -40,7 +41,11 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image", title: "SoccerX Camp", description: "International football trials and scouting experiences.", images: ["/media/wordpress/499-soccerxcamp.jpg"] },
 };
 
-export default async function RootLayout({ children }: LayoutProps<"/">) {
+type RootLayoutProps = Readonly<{
+  children: ReactNode;
+}>;
+
+export default async function RootLayout({ children }: RootLayoutProps) {
   const locale = normalizeLocale((await cookies()).get(localeCookieName)?.value);
   return <html lang={locale} className={inter.variable} data-scroll-behavior="smooth"><body><OrganizationJsonLd /><AppShell locale={locale} dictionary={dictionaries[locale]}>{children}</AppShell></body></html>;
 }
