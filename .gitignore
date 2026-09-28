@@ -42,3 +42,8 @@ next-env.d.ts
 
 # immutable local migration inputs
 /soccerxcamp.WordPress.2026-09-28.xml
+
+# detailed migration inventories may contain private legacy content or personal data
+/migration/reports/author-inventory.json
+/migration/reports/content-inventory.json
+/migration/reports/link-inventory.json

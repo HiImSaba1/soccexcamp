@@ -1,0 +1,290 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nicename": "uncategorized",
+      "parent": "",
+      "name": "Uncategorized",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "nicename": "uncategorized-el",
+      "parent": "",
+      "name": "Uncategorized",
+      "description": ""
+    }
+  ],
+  "tags": [
+    {
+      "id": 39,
+      "slug": "football-en",
+      "name": "football",
+      "description": ""
+    },
+    {
+      "id": 30,
+      "slug": "football",
+      "name": "football",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "slug": "greece",
+      "name": "greece",
+      "description": ""
+    },
+    {
+      "id": 34,
+      "slug": "international",
+      "name": "international",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "slug": "scouting",
+      "name": "scouting",
+      "description": ""
+    },
+    {
+      "id": 26,
+      "slug": "soccerxcamp",
+      "name": "soccerxcamp",
+      "description": ""
+    }
+  ],
+  "customTerms": [
+    {
+      "id": 25,
+      "taxonomy": "elementor_library_type",
+      "slug": "container",
+      "parent": "",
+      "name": "container",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "taxonomy": "language",
+      "slug": "en",
+      "parent": "",
+      "name": "English",
+      "description": "a:3:{s:6:\"locale\";s:5:\"en_GB\";s:3:\"rtl\";i:0;s:9:\"flag_code\";s:2:\"gb\";}"
+    },
+    {
+      "id": 7,
+      "taxonomy": "term_language",
+      "slug": "pll_en",
+      "parent": "",
+      "name": "English",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "taxonomy": "term_translations",
+      "slug": "pll_65f44bf2ea658",
+      "parent": "",
+      "name": "pll_65f44bf2ea658",
+      "description": "a:2:{s:2:\"en\";i:1;s:2:\"el\";i:11;}"
+    },
+    {
+      "id": 12,
+      "taxonomy": "term_translations",
+      "slug": "pll_65f44c1bb9420",
+      "parent": "",
+      "name": "pll_65f44c1bb9420",
+      "description": "a:1:{s:2:\"en\";i:11;}"
+    },
+    {
+      "id": 14,
+      "taxonomy": "post_translations",
+      "slug": "pll_65f44d9e2de70",
+      "parent": "",
+      "name": "pll_65f44d9e2de70",
+      "description": "a:2:{s:2:\"en\";i:10;s:2:\"el\";i:2633;}"
+    },
+    {
+      "id": 18,
+      "taxonomy": "post_translations",
+      "slug": "pll_65f45589b2505",
+      "parent": "",
+      "name": "pll_65f45589b2505",
+      "description": "a:2:{s:2:\"el\";i:437;s:2:\"en\";i:12;}"
+    },
+    {
+      "id": 19,
+      "taxonomy": "post_translations",
+      "slug": "pll_65f4593be0c2d",
+      "parent": "",
+      "name": "pll_65f4593be0c2d",
+      "description": "a:2:{s:2:\"el\";i:442;s:2:\"en\";i:18;}"
+    },
+    {
+      "id": 20,
+      "taxonomy": "post_translations",
+      "slug": "pll_65f45b3e42253",
+      "parent": "",
+      "name": "pll_65f45b3e42253",
+      "description": "a:2:{s:2:\"el\";i:447;s:2:\"en\";i:53;}"
+    },
+    {
+      "id": 21,
+      "taxonomy": "post_translations",
+      "slug": "pll_65f45e740be44",
+      "parent": "",
+      "name": "pll_65f45e740be44",
+      "description": "a:2:{s:2:\"el\";i:452;s:2:\"en\";i:14;}"
+    },
+    {
+      "id": 22,
+      "taxonomy": "post_translations",
+      "slug": "pll_65f45f4d5ac80",
+      "parent": "",
+      "name": "pll_65f45f4d5ac80",
+      "description": "a:2:{s:2:\"el\";i:461;s:2:\"en\";i:106;}"
+    },
+    {
+      "id": 23,
+      "taxonomy": "post_translations",
+      "slug": "pll_65fc1c5c182c4",
+      "parent": "",
+      "name": "pll_65fc1c5c182c4",
+      "description": "a:2:{s:2:\"el\";i:1205;s:2:\"en\";i:1118;}"
+    },
+    {
+      "id": 24,
+      "taxonomy": "post_translations",
+      "slug": "pll_660406e3ef51c",
+      "parent": "",
+      "name": "pll_660406e3ef51c",
+      "description": "a:2:{s:2:\"el\";i:1632;s:2:\"en\";i:1609;}"
+    },
+    {
+      "id": 27,
+      "taxonomy": "term_translations",
+      "slug": "pll_66866f87aa3ca",
+      "parent": "",
+      "name": "pll_66866f87aa3ca",
+      "description": "a:1:{s:2:\"el\";i:26;}"
+    },
+    {
+      "id": 29,
+      "taxonomy": "term_translations",
+      "slug": "pll_66866f89c5334",
+      "parent": "",
+      "name": "pll_66866f89c5334",
+      "description": "a:1:{s:2:\"el\";i:28;}"
+    },
+    {
+      "id": 31,
+      "taxonomy": "term_translations",
+      "slug": "pll_66866f8e751f0",
+      "parent": "",
+      "name": "pll_66866f8e751f0",
+      "description": "a:2:{s:2:\"el\";i:30;s:2:\"en\";i:39;}"
+    },
+    {
+      "id": 33,
+      "taxonomy": "term_translations",
+      "slug": "pll_66866f9591f83",
+      "parent": "",
+      "name": "pll_66866f9591f83",
+      "description": "a:1:{s:2:\"el\";i:32;}"
+    },
+    {
+      "id": 35,
+      "taxonomy": "term_translations",
+      "slug": "pll_66866f9cbc02a",
+      "parent": "",
+      "name": "pll_66866f9cbc02a",
+      "description": "a:1:{s:2:\"el\";i:34;}"
+    },
+    {
+      "id": 36,
+      "taxonomy": "post_translations",
+      "slug": "pll_6686755d61e9d",
+      "parent": "",
+      "name": "pll_6686755d61e9d",
+      "description": "a:2:{s:2:\"en\";i:2337;s:2:\"el\";i:2321;}"
+    },
+    {
+      "id": 41,
+      "taxonomy": "post_translations",
+      "slug": "pll_672cd604e4c73",
+      "parent": "",
+      "name": "pll_672cd604e4c73",
+      "description": "a:2:{s:2:\"en\";i:2374;s:2:\"el\";i:2480;}"
+    },
+    {
+      "id": 2,
+      "taxonomy": "elementor_library_type",
+      "slug": "section",
+      "parent": "",
+      "name": "section",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "taxonomy": "language",
+      "slug": "el",
+      "parent": "",
+      "name": "Ελληνικά",
+      "description": "a:3:{s:6:\"locale\";s:2:\"el\";s:3:\"rtl\";i:0;s:9:\"flag_code\";s:2:\"gr\";}"
+    },
+    {
+      "id": 10,
+      "taxonomy": "term_language",
+      "slug": "pll_el",
+      "parent": "",
+      "name": "Ελληνικά",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "taxonomy": "nav_menu",
+      "slug": "mobile-el",
+      "parent": "",
+      "name": "Mobile El",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "taxonomy": "nav_menu",
+      "slug": "mobile-menu",
+      "parent": "",
+      "name": "Mobile Menu",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "taxonomy": "nav_menu",
+      "slug": "primary-menu",
+      "parent": "",
+      "name": "Primary Menu",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "taxonomy": "nav_menu",
+      "slug": "primary-menu-el",
+      "parent": "",
+      "name": "Primary Menu El",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "taxonomy": "nav_menu",
+      "slug": "secondary-menu",
+      "parent": "",
+      "name": "Secondary Menu",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "taxonomy": "nav_menu",
+      "slug": "secondary-menu-el",
+      "parent": "",
+      "name": "Secondary Menu El",
+      "description": ""
+    }
+  ]
+}

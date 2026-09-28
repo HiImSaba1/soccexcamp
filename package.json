@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "migration:analyze": "tsx scripts/wordpress/analyze-wxr.ts",
+    "migration:review": "tsx scripts/wordpress/review-analysis.ts",
+    "migration:validate": "tsx scripts/wordpress/validate-analysis.ts",
+    "test": "vitest run"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",

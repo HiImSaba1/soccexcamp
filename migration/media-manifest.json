@@ -1,0 +1,1617 @@
+[
+  {
+    "wordpressId": 30,
+    "filename": "2024/03/photo-1468390090990-afe21a9448f0.jpeg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/photo-1468390090990-afe21a9448f0.jpeg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/30-photo-1468390090990-afe21a9448f0.jpeg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 70,
+    "filename": "2024/03/soccer_camp_section_2-scaled.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_camp_section_2.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/70-soccer_camp_section_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 71,
+    "filename": "2024/03/kids_playing_2-scaled.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/kids_playing_2.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/71-kids_playing_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 72,
+    "filename": "2024/03/kids_playing-scaled.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/kids_playing.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/72-kids_playing.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 78,
+    "filename": "2024/03/soccer_x_camp_intro.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_intro.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/78-soccer_x_camp_intro.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 81,
+    "filename": "2024/03/photo-1523303821445-f2983744a23e.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/photo-1523303821445-f2983744a23e.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/81-photo-1523303821445-f2983744a23e.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 88,
+    "filename": "2024/03/greg-kantra-333822-unsplash.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/greg-kantra-333822-unsplash.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/88-greg-kantra-333822-unsplash.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 90,
+    "filename": "2024/03/zz-teammember2.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/zz-teammember2.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/90-zz-teammember2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 91,
+    "filename": "2024/03/zz-teammember3.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/zz-teammember3.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/91-zz-teammember3.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 115,
+    "filename": "2024/03/0-02-05-fd6cdaf86262c16f96b53512e6dff934fb07b5e54c65ef06b865c313e35b08ea_fab259442314320b.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/0-02-05-fd6cdaf86262c16f96b53512e6dff934fb07b5e54c65ef06b865c313e35b08ea_fab259442314320b.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/115-0-02-05-fd6cdaf86262c16f96b53512e6dff934fb07b5e54c65ef06b865c313e35b08ea_fab259442314320b.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 117,
+    "filename": "2024/03/1-noise-texture.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/1-noise-texture.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/117-1-noise-texture.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 123,
+    "filename": "2024/03/paok_deliopoulos_petkakis.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/paok_deliopoulos_petkakis.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/123-paok_deliopoulos_petkakis.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 124,
+    "filename": "2024/03/maragozidis_petkakis.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/maragozidis_petkakis.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/124-maragozidis_petkakis.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 141,
+    "filename": "2024/03/image.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/image.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/141-image.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 142,
+    "filename": "2024/03/logo36w.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/logo36w.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/142-logo36w.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 154,
+    "filename": "2024/03/pattern1.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/pattern1.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/154-pattern1.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 161,
+    "filename": "2024/03/soccer_x_camp_logo_ok.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_logo_ok.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [
+      12,
+      14,
+      53,
+      437,
+      447,
+      18,
+      442,
+      452,
+      1609,
+      1632
+    ],
+    "proposedLocalDestination": "public/media/wordpress/161-soccer_x_camp_logo_ok.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 172,
+    "filename": "2024/03/sabaweb_logo.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/sabaweb_logo.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/172-sabaweb_logo.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 173,
+    "filename": "2024/03/Logo-Golden-Cup.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/Logo-Golden-Cup.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/173-Logo-Golden-Cup.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 174,
+    "filename": "2024/03/1-acadimies.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/1-acadimies.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/174-1-acadimies.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 175,
+    "filename": "2024/03/hsu_300.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/hsu_300.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/175-hsu_300.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 176,
+    "filename": "2024/03/2-removebg-preview-e1710249279652.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/2-removebg-preview.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/176-2-removebg-preview.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 183,
+    "filename": "2024/03/brunel-johnson-3686289-unsplash.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/brunel-johnson-3686289-unsplash.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/183-brunel-johnson-3686289-unsplash.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 195,
+    "filename": "2024/03/maragozidis_tasos.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/maragozidis_tasos.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/195-maragozidis_tasos.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 197,
+    "filename": "2024/03/dimitris_petkakis.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/dimitris_petkakis.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/197-dimitris_petkakis.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 198,
+    "filename": "2024/03/dora_ioakeimidou.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/dora_ioakeimidou.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/198-dora_ioakeimidou.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 207,
+    "filename": "2024/03/group_photo.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/group_photo.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/207-group_photo.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 208,
+    "filename": "2024/03/camp_photo_1.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/camp_photo_1.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/208-camp_photo_1.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 212,
+    "filename": "2024/03/be_a_part.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/be_a_part.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/212-be_a_part.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 213,
+    "filename": "2024/03/coaching_soccer_x_camp.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/coaching_soccer_x_camp.jpg",
+    "mimeType": "",
+    "parentContentId": 12,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/213-coaching_soccer_x_camp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 239,
+    "filename": "2024/03/soccer_x_camp_signing_6.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_signing_6.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/239-soccer_x_camp_signing_6.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 240,
+    "filename": "2024/03/soccer_x_camp_signing_7.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_signing_7.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/240-soccer_x_camp_signing_7.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 241,
+    "filename": "2024/03/soccer_x_camp_signing_8.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_signing_8.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/241-soccer_x_camp_signing_8.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 242,
+    "filename": "2024/03/soccer_x_camp_signing.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_signing.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/242-soccer_x_camp_signing.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 243,
+    "filename": "2024/03/soccer_x_camp_like.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_like.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/243-soccer_x_camp_like.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 244,
+    "filename": "2024/03/soccer_x_camp_signing_2.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_signing_2.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/244-soccer_x_camp_signing_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 245,
+    "filename": "2024/03/soccer_x_camp_signing_3.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_signing_3.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/245-soccer_x_camp_signing_3.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 246,
+    "filename": "2024/03/soccer_x_camp_signing_4.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_signing_4.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/246-soccer_x_camp_signing_4.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 247,
+    "filename": "2024/03/soccer_x_camp_like_2.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_like_2.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/247-soccer_x_camp_like_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 248,
+    "filename": "2024/03/soccer_x_camp_signing_5.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_x_camp_signing_5.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/248-soccer_x_camp_signing_5.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 257,
+    "filename": "2024/03/LOGO-1.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/LOGO-1.png",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/257-LOGO-1.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 307,
+    "filename": "2024/03/soccerxcamp24.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccerxcamp24.jpg",
+    "mimeType": "",
+    "parentContentId": 53,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/307-soccerxcamp24.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 312,
+    "filename": "2024/03/quotes-01.png",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/quotes-01.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/312-quotes-01.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 320,
+    "filename": "2024/03/pantelidis_soccer_center.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/pantelidis_soccer_center.jpg",
+    "mimeType": "",
+    "parentContentId": 53,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/320-pantelidis_soccer_center.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 321,
+    "filename": "2024/03/hotel_pantelidis.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/hotel_pantelidis.jpg",
+    "mimeType": "",
+    "parentContentId": 53,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/321-hotel_pantelidis.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 326,
+    "filename": "2024/03/dora_soccerxcamp.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/dora_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/326-dora_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 402,
+    "filename": "2024/03/soccer_and_more.jpg",
+    "originalUrl": "http://soccerxcamp.localhost/wp-content/uploads/2024/03/soccer_and_more.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/402-soccer_and_more.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 499,
+    "filename": "2024/03/soccerxcamp.jpg",
+    "originalUrl": "http://soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/499-soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 606,
+    "filename": "2024/03/soccer_x-camp-section-1-scaled.jpg",
+    "originalUrl": "http://soccerxcamp.com/wp-content/uploads/2024/03/soccer_x-camp-section-1.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/606-soccer_x-camp-section-1.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 611,
+    "filename": "2024/03/flanagan-profile.jpg",
+    "originalUrl": "http://soccerxcamp.com/wp-content/uploads/2024/03/flanagan-profile.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/611-flanagan-profile.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 623,
+    "filename": "2024/03/petkakis_2-e1710857927334.jpg",
+    "originalUrl": "http://soccerxcamp.com/wp-content/uploads/2024/03/petkakis_2.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/623-petkakis_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 629,
+    "filename": "2024/03/soccerxcamp-logo.png",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp-logo.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [
+      106,
+      461
+    ],
+    "proposedLocalDestination": "public/media/wordpress/629-soccerxcamp-logo.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 804,
+    "filename": "2024/03/soccer_x_camp_maragkozidis-e1710930915390.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_maragkozidis.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/804-soccer_x_camp_maragkozidis.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 830,
+    "filename": "2024/03/soccer_x_camp_banner.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_banner.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/830-soccer_x_camp_banner.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 834,
+    "filename": "2024/03/soccerxcamp_vandurf.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_vandurf.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/834-soccerxcamp_vandurf.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 855,
+    "filename": "2024/03/pexels-photo-220453.jpeg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/pexels-photo-220453.jpeg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/855-pexels-photo-220453.jpeg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 856,
+    "filename": "2024/03/pexels-photo-556068.jpeg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/pexels-photo-556068.jpeg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/856-pexels-photo-556068.jpeg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 857,
+    "filename": "2024/03/pexels-photo-774909.jpeg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/pexels-photo-774909.jpeg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/857-pexels-photo-774909.jpeg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1040,
+    "filename": "2024/03/joel_damahou_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/joel_damahou_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1040-joel_damahou_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1041,
+    "filename": "2024/03/joel_damahou_soccerxcamp_profile.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/joel_damahou_soccerxcamp_profile.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1041-joel_damahou_soccerxcamp_profile.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1185,
+    "filename": "2024/03/pexels-photo-250400.jpeg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/pexels-photo-250400.jpeg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1185-pexels-photo-250400.jpeg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1257,
+    "filename": "2024/03/Talentebuch-final.pdf",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/Talentebuch-final.pdf",
+    "mimeType": "",
+    "parentContentId": 1118,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1257-Talentebuch-final.pdf",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1513,
+    "filename": "2024/03/soccerxcamp_talentbook.png",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_talentbook.png",
+    "mimeType": "",
+    "parentContentId": 1205,
+    "featuredImageForContentIds": [
+      1118,
+      1205
+    ],
+    "proposedLocalDestination": "public/media/wordpress/1513-soccerxcamp_talentbook.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1538,
+    "filename": "2024/03/aristadis_soccerx_camp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/aristadis_soccerx_camp.jpg",
+    "mimeType": "",
+    "parentContentId": 106,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1538-aristadis_soccerx_camp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1539,
+    "filename": "2024/03/zannakis_hoffenheim.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/zannakis_hoffenheim.jpg",
+    "mimeType": "",
+    "parentContentId": 106,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1539-zannakis_hoffenheim.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1540,
+    "filename": "2024/03/zannakis_hoffenheim_maragozidis.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/zannakis_hoffenheim_maragozidis.jpg",
+    "mimeType": "",
+    "parentContentId": 106,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1540-zannakis_hoffenheim_maragozidis.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1544,
+    "filename": "2024/03/aristadis_soccerx_camp_petkakis_maragozidis.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/aristadis_soccerx_camp_petkakis_maragozidis.jpg",
+    "mimeType": "",
+    "parentContentId": 106,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1544-aristadis_soccerx_camp_petkakis_maragozidis.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1546,
+    "filename": "2024/03/stefan_shwab_paok_maragozidis_soccerxcamp.png",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/stefan_shwab_paok_maragozidis_soccerxcamp.png",
+    "mimeType": "",
+    "parentContentId": 106,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1546-stefan_shwab_paok_maragozidis_soccerxcamp.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1547,
+    "filename": "2024/03/giannouis_maragozidis.png",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/giannouis_maragozidis.png",
+    "mimeType": "",
+    "parentContentId": 106,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1547-giannouis_maragozidis.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1575,
+    "filename": "2024/03/IMG-0aaa4db1d5633e30d24ea0c0262f8d90-V.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-0aaa4db1d5633e30d24ea0c0262f8d90-V.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1575-IMG-0aaa4db1d5633e30d24ea0c0262f8d90-V.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1576,
+    "filename": "2024/03/IMG-0d0d6ed6847c0214cbd5c37055790be5-V.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-0d0d6ed6847c0214cbd5c37055790be5-V.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1576-IMG-0d0d6ed6847c0214cbd5c37055790be5-V.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1577,
+    "filename": "2024/03/IMG-4fd589185b0e3e77fdd40c6aa9f6c79e-V.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-4fd589185b0e3e77fdd40c6aa9f6c79e-V.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1577-IMG-4fd589185b0e3e77fdd40c6aa9f6c79e-V.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1578,
+    "filename": "2024/03/IMG-20e3a5a64764f02f688886293708c1d7-V.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-20e3a5a64764f02f688886293708c1d7-V.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1578-IMG-20e3a5a64764f02f688886293708c1d7-V.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1579,
+    "filename": "2024/03/IMG-14428ea8c24a10451324eec0233c49ec-V.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-14428ea8c24a10451324eec0233c49ec-V.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1579-IMG-14428ea8c24a10451324eec0233c49ec-V.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1580,
+    "filename": "2024/03/IMG-c76a661f8cd80efba6ea5b59af5bb227-V.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-c76a661f8cd80efba6ea5b59af5bb227-V.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1580-IMG-c76a661f8cd80efba6ea5b59af5bb227-V.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1581,
+    "filename": "2024/03/IMG-e99d222baa394266640ae8e37f72874a-V.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-e99d222baa394266640ae8e37f72874a-V.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1581-IMG-e99d222baa394266640ae8e37f72874a-V.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1653,
+    "filename": "2024/03/guido_nikolay.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/guido_nikolay.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1653-guido_nikolay.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1657,
+    "filename": "2024/03/tasos_petkakis_coach.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/tasos_petkakis_coach.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1657-tasos_petkakis_coach.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1658,
+    "filename": "2024/03/soccerxcamp_group_2023_camp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_group_2023_camp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1658-soccerxcamp_group_2023_camp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1659,
+    "filename": "2024/03/soccerxcamp_group_2023.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_group_2023.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1659-soccerxcamp_group_2023.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1660,
+    "filename": "2024/03/coach_with_camp_kids.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/coach_with_camp_kids.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1660-coach_with_camp_kids.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1661,
+    "filename": "2024/03/soccerxcamp_corner_photo.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_corner_photo.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1661-soccerxcamp_corner_photo.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1915,
+    "filename": "2024/03/per_mertesacker_cup_golden.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/per_mertesacker_cup_golden.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1915-per_mertesacker_cup_golden.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1920,
+    "filename": "2024/03/schwab_petkakis.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/schwab_petkakis.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1920-schwab_petkakis.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1928,
+    "filename": "2024/03/tasos_guido.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/tasos_guido.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1928-tasos_guido.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1930,
+    "filename": "2024/03/team9_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team9_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1930-team9_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1931,
+    "filename": "2024/03/team8_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team8_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1931-team8_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1932,
+    "filename": "2024/03/team7_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team7_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1932-team7_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1933,
+    "filename": "2024/03/team6_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team6_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1933-team6_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1934,
+    "filename": "2024/03/team5_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team5_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1934-team5_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1935,
+    "filename": "2024/03/team4_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team4_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1935-team4_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1936,
+    "filename": "2024/03/team3_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team3_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1936-team3_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1937,
+    "filename": "2024/03/team2_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team2_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1937-team2_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1938,
+    "filename": "2024/03/team_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1938-team_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1940,
+    "filename": "2024/03/team10_photo_soccerxcamp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team10_photo_soccerxcamp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1940-team10_photo_soccerxcamp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1962,
+    "filename": "2024/03/ivo_rogalo.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/ivo_rogalo.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1962-ivo_rogalo.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1973,
+    "filename": "2024/03/gregory_knoff.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/gregory_knoff.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1973-gregory_knoff.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1978,
+    "filename": "2024/03/petkakis_coach.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/petkakis_coach.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1978-petkakis_coach.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1982,
+    "filename": "2024/03/team_photo_9.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team_photo_9.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1982-team_photo_9.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1984,
+    "filename": "2024/03/tasos_guido_ok.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/tasos_guido_ok.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1984-tasos_guido_ok.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1985,
+    "filename": "2024/03/team8_photo_group_ivo.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/team8_photo_group_ivo.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1985-team8_photo_group_ivo.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 1999,
+    "filename": "2024/03/soccerxcamp_kids.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_kids.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/1999-soccerxcamp_kids.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2000,
+    "filename": "2024/03/soccerxcamp_team2.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_team2.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2000-soccerxcamp_team2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2001,
+    "filename": "2024/03/soccerxcamp_team_2.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_team_2.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2001-soccerxcamp_team_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2002,
+    "filename": "2024/03/soccerxcamp_team_photo.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_team_photo.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2002-soccerxcamp_team_photo.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2003,
+    "filename": "2024/03/soccerxcamp_organization_team.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_organization_team.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2003-soccerxcamp_organization_team.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2004,
+    "filename": "2024/03/soccerxcamp_with_gregory_knoff.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_with_gregory_knoff.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2004-soccerxcamp_with_gregory_knoff.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2005,
+    "filename": "2024/03/tasos_petkakis_scouters_soccerxcamp_fifa.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/tasos_petkakis_scouters_soccerxcamp_fifa.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2005-tasos_petkakis_scouters_soccerxcamp_fifa.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2006,
+    "filename": "2024/03/soccerxcamp_tasos_maragozidis_camp.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_tasos_maragozidis_camp.jpg",
+    "mimeType": "",
+    "parentContentId": 10,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2006-soccerxcamp_tasos_maragozidis_camp.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2136,
+    "filename": "2024/04/soccerxcamp_24.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/04/soccerxcamp_24.jpg",
+    "mimeType": "",
+    "parentContentId": 447,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2136-soccerxcamp_24.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2140,
+    "filename": "2024/04/GHPEDO-RAIDESTOS.webp",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/04/GHPEDO-RAIDESTOS.webp",
+    "mimeType": "",
+    "parentContentId": 447,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2140-GHPEDO-RAIDESTOS.webp",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2296,
+    "filename": "2024/07/soccerxcamp_players_scouters_4.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_4.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2296-soccerxcamp_players_scouters_4.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2297,
+    "filename": "2024/07/soccerxcamp_players_5.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_5.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2297-soccerxcamp_players_5.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2298,
+    "filename": "2024/07/soccerxcamp_players_7.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_7.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2298-soccerxcamp_players_7.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2299,
+    "filename": "2024/07/soccerxcamp_players_13.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_13.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2299-soccerxcamp_players_13.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2300,
+    "filename": "2024/07/soccerxcamp_players_scouters_2.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_2.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2300-soccerxcamp_players_scouters_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2301,
+    "filename": "2024/07/soccerxcamp_trainers_scouters_5.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_trainers_scouters_5.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2301-soccerxcamp_trainers_scouters_5.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2302,
+    "filename": "2024/07/soccerxcamp_players_scouters_3.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_3.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2302-soccerxcamp_players_scouters_3.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2303,
+    "filename": "2024/07/soccerxcamp_players_scouters_9.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_9.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2303-soccerxcamp_players_scouters_9.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2304,
+    "filename": "2024/07/soccerxcamp_trainers_scouters_2.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_trainers_scouters_2.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2304-soccerxcamp_trainers_scouters_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2305,
+    "filename": "2024/07/soccerxcamp_players_scouters_7.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_7.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2305-soccerxcamp_players_scouters_7.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2306,
+    "filename": "2024/07/449317513_431593099848824_4804474710527817086_n.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/449317513_431593099848824_4804474710527817086_n.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2306-449317513_431593099848824_4804474710527817086_n.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2307,
+    "filename": "2024/07/soccerxcamp_players_3.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_3.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2307-soccerxcamp_players_3.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2308,
+    "filename": "2024/07/soccerxcamp_players_4.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_4.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2308-soccerxcamp_players_4.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2309,
+    "filename": "2024/07/soccerxcamp_players_scouters_5.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_5.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2309-soccerxcamp_players_scouters_5.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2310,
+    "filename": "2024/07/soccerxcamp_players_14.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_14.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2310-soccerxcamp_players_14.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2311,
+    "filename": "2024/07/soccerxcamp_players_2.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_2.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2311-soccerxcamp_players_2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2312,
+    "filename": "2024/07/soccerxcamp_trainers_scouters_4.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_trainers_scouters_4.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2312-soccerxcamp_trainers_scouters_4.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2313,
+    "filename": "2024/07/soccerxcamp_players_scouters_6.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_6.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2313-soccerxcamp_players_scouters_6.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2314,
+    "filename": "2024/07/soccerxcamp_players_scouters_8.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_8.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2314-soccerxcamp_players_scouters_8.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2315,
+    "filename": "2024/07/soccerxcamp_players_1.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_1.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2315-soccerxcamp_players_1.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2316,
+    "filename": "2024/07/soccerxcamp_players_9.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_9.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2316-soccerxcamp_players_9.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2317,
+    "filename": "2024/07/soccerxcamp_trainers_scouters_3.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_trainers_scouters_3.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [
+      2321,
+      2337,
+      2374,
+      2480
+    ],
+    "proposedLocalDestination": "public/media/wordpress/2317-soccerxcamp_trainers_scouters_3.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2318,
+    "filename": "2024/07/soccerxcamp_players_6.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_6.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2318-soccerxcamp_players_6.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2319,
+    "filename": "2024/07/soccerxcamp_players_scouters_1.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_1.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2319-soccerxcamp_players_scouters_1.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2320,
+    "filename": "2024/07/soccerxcamp_players_8.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_8.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2320-soccerxcamp_players_8.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2339,
+    "filename": "2024/07/soccerxcamp_players_scouters_4-1.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_4-1.jpg",
+    "mimeType": "",
+    "parentContentId": 2321,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2339-soccerxcamp_players_scouters_4-1.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2376,
+    "filename": "2024/11/h-heyerlein-199092-unsplash.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/h-heyerlein-199092-unsplash.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2376-h-heyerlein-199092-unsplash.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2379,
+    "filename": "2024/11/mimi-thian-737711-unsplash.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/mimi-thian-737711-unsplash.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2379-mimi-thian-737711-unsplash.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2380,
+    "filename": "2024/11/nesa-by-makers-701360-unsplash.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/nesa-by-makers-701360-unsplash.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2380-nesa-by-makers-701360-unsplash.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2401,
+    "filename": "2024/11/lee-miller-47629-unsplash.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/lee-miller-47629-unsplash.jpg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2401-lee-miller-47629-unsplash.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2402,
+    "filename": "2024/11/placeholder.png",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/placeholder.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2402-placeholder.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2403,
+    "filename": "2024/11/placeholder-1.png",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/placeholder-1.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2403-placeholder-1.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2409,
+    "filename": "2024/11/soccerx-trials-post.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/soccerx-trials-post.jpg",
+    "mimeType": "",
+    "parentContentId": 2374,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2409-soccerx-trials-post.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2410,
+    "filename": "2024/11/soccerxtrials_story.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/soccerxtrials_story.jpg",
+    "mimeType": "",
+    "parentContentId": 2374,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2410-soccerxtrials_story.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2411,
+    "filename": "2024/11/SOCCERX_TRIALS_final.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/SOCCERX_TRIALS_final.jpg",
+    "mimeType": "",
+    "parentContentId": 2374,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2411-SOCCERX_TRIALS_final.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2412,
+    "filename": "2024/11/dot.png",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/dot.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2412-dot.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2413,
+    "filename": "2024/11/lion-animal-nature-predator-40835.jpeg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/lion-animal-nature-predator-40835.jpeg",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2413-lion-animal-nature-predator-40835.jpeg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2416,
+    "filename": "2024/11/fun4you.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/fun4you.jpg",
+    "mimeType": "",
+    "parentContentId": 2374,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2416-fun4you.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2417,
+    "filename": "2024/11/linebgoverlay.png",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/linebgoverlay.png",
+    "mimeType": "",
+    "parentContentId": null,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2417-linebgoverlay.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2518,
+    "filename": "2024/11/maragozidis_soccerandmore2.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/maragozidis_soccerandmore2.jpg",
+    "mimeType": "",
+    "parentContentId": 2480,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2518-maragozidis_soccerandmore2.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2519,
+    "filename": "2024/11/maragozidis_soccerandmore.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/maragozidis_soccerandmore.jpg",
+    "mimeType": "",
+    "parentContentId": 2480,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2519-maragozidis_soccerandmore.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2567,
+    "filename": "2024/11/maragozidis_soccerandmore3.jpg",
+    "originalUrl": "http://www.soccerxcamp.com/wp-content/uploads/2024/11/maragozidis_soccerandmore3.jpg",
+    "mimeType": "",
+    "parentContentId": 2374,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2567-maragozidis_soccerandmore3.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2588,
+    "filename": "2025/12/1.jpg",
+    "originalUrl": "https://www.soccerxcamp.com/wp-content/uploads/2025/12/1.jpg",
+    "mimeType": "",
+    "parentContentId": 2374,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2588-1.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2589,
+    "filename": "2025/12/soccerx_trials_26.png",
+    "originalUrl": "https://www.soccerxcamp.com/wp-content/uploads/2025/12/soccerx_trials_26.png",
+    "mimeType": "",
+    "parentContentId": 2374,
+    "featuredImageForContentIds": [
+      10,
+      2633
+    ],
+    "proposedLocalDestination": "public/media/wordpress/2589-soccerx_trials_26.png",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2666,
+    "filename": "2025/12/soccerXcamp_26_converted.webp",
+    "originalUrl": "https://www.soccerxcamp.com/wp-content/uploads/2025/12/soccerXcamp_26_converted.webp",
+    "mimeType": "",
+    "parentContentId": 2374,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2666-soccerXcamp_26_converted.webp",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2673,
+    "filename": "2025/12/soccerXcamp_26_converted_1.webp",
+    "originalUrl": "https://www.soccerxcamp.com/wp-content/uploads/2025/12/soccerXcamp_26_converted_1.webp",
+    "mimeType": "",
+    "parentContentId": 2480,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2673-soccerXcamp_26_converted_1.webp",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2678,
+    "filename": "2026/01/soccerxcamp_april_trails_germany_main.jpg",
+    "originalUrl": "https://www.soccerxcamp.com/wp-content/uploads/2026/01/soccerxcamp_april_trails_germany_main.jpg",
+    "mimeType": "",
+    "parentContentId": 2480,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2678-soccerxcamp_april_trails_germany_main.jpg",
+    "migrationStatus": "pending-approval"
+  },
+  {
+    "wordpressId": 2679,
+    "filename": "2026/01/soccerxcamp_april_trails_germany_main_2.png",
+    "originalUrl": "https://www.soccerxcamp.com/wp-content/uploads/2026/01/soccerxcamp_april_trails_germany_main_2.png",
+    "mimeType": "",
+    "parentContentId": 2480,
+    "featuredImageForContentIds": [],
+    "proposedLocalDestination": "public/media/wordpress/2679-soccerxcamp_april_trails_germany_main_2.png",
+    "migrationStatus": "pending-approval"
+  }
+]

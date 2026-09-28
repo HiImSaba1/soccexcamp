@@ -1,0 +1,2646 @@
+[
+  {
+    "wordpressId": 477,
+    "title": "Languages",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 477,
+    "objectType": "custom",
+    "targetUrl": "#pll_switcher",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu-el",
+        "label": "Secondary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_pll_menu_item",
+        "value": "a:6:{s:22:\"hide_if_no_translation\";i:0;s:12:\"hide_current\";i:0;s:10:\"force_home\";i:0;s:10:\"show_flags\";i:1;s:10:\"show_names\";i:0;s:8:\"dropdown\";i:0;}"
+      },
+      {
+        "key": "_menu_item_url",
+        "value": "#pll_switcher"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "477"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "custom"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      }
+    ]
+  },
+  {
+    "wordpressId": 478,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 442,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu-el",
+        "label": "Secondary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "442"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      }
+    ]
+  },
+  {
+    "wordpressId": 479,
+    "title": "Αίτηση Συμμετοχής",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 452,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu-el",
+        "label": "Secondary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "452"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1507,
+    "title": "Downloads",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 1507,
+    "objectType": "custom",
+    "targetUrl": "#",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu-el",
+        "label": "Secondary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1507"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": "#"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1509,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 1507,
+    "objectId": 1205,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu-el",
+        "label": "Secondary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1205"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "1507"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      }
+    ]
+  },
+  {
+    "wordpressId": 62,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 18,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "18"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-11"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-14"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 64,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 12,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "12"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-11"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 401,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 106,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "106"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-14"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 467,
+    "title": "Languages",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 467,
+    "objectType": "custom",
+    "targetUrl": "#pll_switcher",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "467"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": "#pll_switcher"
+      },
+      {
+        "key": "_pll_menu_item",
+        "value": "a:6:{s:22:\"hide_if_no_translation\";i:0;s:12:\"hide_current\";i:0;s:10:\"force_home\";i:0;s:10:\"show_flags\";i:1;s:10:\"show_names\";i:0;s:8:\"dropdown\";i:0;}"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-18"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 468,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 461,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-18"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "461"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 470,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 442,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-18"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "442"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 471,
+    "title": "Αίτηση Συμμετοχής",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 452,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-18"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "452"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 472,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 437,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "437"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-18"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1127,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 1505,
+    "objectId": 1118,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-18"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1118"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "1505"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1505,
+    "title": "Downloads",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 1505,
+    "objectType": "custom",
+    "targetUrl": "#",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-18"
+      },
+      {
+        "key": "_menu_item_url",
+        "value": "#"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1505"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "custom"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1647,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 1505,
+    "objectId": 1632,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-18"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "1505"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1632"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1648,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 1507,
+    "objectId": 1632,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu-el",
+        "label": "Secondary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "1507"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1632"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "wordpressId": 2167,
+    "title": "Languages",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 2167,
+    "objectType": "custom",
+    "targetUrl": "#pll_switcher",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu",
+        "label": "Secondary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2167"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": "#pll_switcher"
+      },
+      {
+        "key": "_pll_menu_item",
+        "value": "a:6:{s:22:\"hide_if_no_translation\";i:0;s:12:\"hide_current\";i:0;s:10:\"force_home\";i:0;s:10:\"show_flags\";i:1;s:10:\"show_names\";i:0;s:8:\"dropdown\";i:0;}"
+      }
+    ]
+  },
+  {
+    "wordpressId": 2169,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 2173,
+    "objectId": 1609,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu",
+        "label": "Secondary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "2173"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1609"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "wordpressId": 2170,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 2173,
+    "objectId": 1118,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu",
+        "label": "Secondary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "2173"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1118"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "wordpressId": 2171,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 18,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu",
+        "label": "Secondary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "18"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "wordpressId": 2172,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 14,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu",
+        "label": "Secondary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "14"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "wordpressId": 2173,
+    "title": "Downloads",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 2173,
+    "objectType": "custom",
+    "targetUrl": "#",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "secondary-menu",
+        "label": "Secondary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2173"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": "#"
+      }
+    ]
+  },
+  {
+    "wordpressId": 2325,
+    "title": "Ιούνιος ’24",
+    "status": "publish",
+    "parentMenuItemId": 468,
+    "objectId": 2321,
+    "objectType": "post",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "468"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2321"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "post"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 2482,
+    "title": "Γερμανία ’26",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 2480,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-el",
+        "label": "Mobile El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2480"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      }
+    ]
+  },
+  {
+    "wordpressId": 303,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 106,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "primary-menu",
+        "label": "Primary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "106"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-13"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 305,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 12,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "primary-menu",
+        "label": "Primary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "12"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-13"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 474,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 461,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "primary-menu-el",
+        "label": "Primary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "461"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 476,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 437,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "primary-menu-el",
+        "label": "Primary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "437"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-04-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 480,
+    "title": "Languages",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 480,
+    "objectType": "custom",
+    "targetUrl": "#pll_switcher",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_object",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "480"
+      },
+      {
+        "key": "_pll_menu_item",
+        "value": "a:6:{s:22:\"hide_if_no_translation\";i:0;s:12:\"hide_current\";i:0;s:10:\"force_home\";i:0;s:10:\"show_flags\";i:1;s:10:\"show_names\";i:0;s:8:\"dropdown\";i:0;}"
+      },
+      {
+        "key": "_menu_item_url",
+        "value": "#pll_switcher"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "custom"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-15"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 600,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 14,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "14"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-19"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-20"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1503,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 1504,
+    "objectId": 1205,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "1504"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1205"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1504,
+    "title": "Downloads",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 1504,
+    "objectType": "custom",
+    "targetUrl": "#",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1504"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "custom"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": "#"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-21"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 1631,
+    "title": "",
+    "status": "publish",
+    "parentMenuItemId": 1504,
+    "objectId": 1609,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-03-27"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "1504"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "1609"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 2324,
+    "title": "Ιούνιος ’24",
+    "status": "publish",
+    "parentMenuItemId": 474,
+    "objectId": 2321,
+    "objectType": "post",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "primary-menu-el",
+        "label": "Primary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "474"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2321"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "post"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 2342,
+    "title": "June ’24",
+    "status": "publish",
+    "parentMenuItemId": 401,
+    "objectId": 2337,
+    "objectType": "post",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "401"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2337"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "post"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 2343,
+    "title": "June ’24",
+    "status": "publish",
+    "parentMenuItemId": 303,
+    "objectId": 2337,
+    "objectType": "post",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "primary-menu",
+        "label": "Primary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "303"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2337"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "post"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-07-04"
+      },
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-07"
+      }
+    ]
+  },
+  {
+    "wordpressId": 2434,
+    "title": "Germany ’26",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 2374,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "mobile-menu",
+        "label": "Mobile Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2374"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "wordpressId": 2484,
+    "title": "Germany ’26",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 2374,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "primary-menu",
+        "label": "Primary Menu"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2374"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      }
+    ]
+  },
+  {
+    "wordpressId": 2485,
+    "title": "Γερμανία ’26",
+    "status": "publish",
+    "parentMenuItemId": 0,
+    "objectId": 2480,
+    "objectType": "page",
+    "targetUrl": "",
+    "terms": [
+      {
+        "domain": "nav_menu",
+        "nicename": "primary-menu-el",
+        "label": "Primary Menu El"
+      }
+    ],
+    "metadata": [
+      {
+        "key": "_wp_old_date",
+        "value": "2024-11-08"
+      },
+      {
+        "key": "_menu_item_type",
+        "value": "post_type"
+      },
+      {
+        "key": "_menu_item_menu_item_parent",
+        "value": "0"
+      },
+      {
+        "key": "_menu_item_object_id",
+        "value": "2480"
+      },
+      {
+        "key": "_menu_item_object",
+        "value": "page"
+      },
+      {
+        "key": "_menu_item_target",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_classes",
+        "value": "a:1:{i:0;s:0:\"\";}"
+      },
+      {
+        "key": "_menu_item_xfn",
+        "value": ""
+      },
+      {
+        "key": "_menu_item_url",
+        "value": ""
+      }
+    ]
+  }
+]
