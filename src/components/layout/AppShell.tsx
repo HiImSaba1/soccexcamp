@@ -8,6 +8,7 @@ import { LetterHoverLink } from "@/components/ui/LetterHoverLink";
 import type { Locale } from "@/i18n/config";
 import type { Dictionary } from "@/i18n/dictionaries";
 import { LocaleProvider, useLocale } from "@/providers/LocaleProvider";
+import { siteContact } from "@/content/site-contact";
 
 const navigation = [
   ["/", "home"], ["/events/germany-2026", "event"], ["/about", "about"],
@@ -63,7 +64,7 @@ function Header() {
         <nav aria-label={d.navigationLabel}>
           {navigation.map(([href, key], index) => <LetterHoverLink key={href} href={href} leadingVisual={<span>0{index + 1}</span>} tabIndex={open ? undefined : -1} aria-current={pathname === href ? "page" : undefined} onClick={() => setOpen(false)}>{d.nav[key]}</LetterHoverLink>)}
         </nav>
-        <div className="site-menu__foot"><p>SOCCERX CAMP<br />GERMANY ’26</p><p><a href="tel:+306930393091">+30 6930 393091</a><br /><a href="mailto:dp@soccerandmore.org">dp@soccerandmore.org</a></p></div>
+        <div className="site-menu__foot"><p>SOCCERX CAMP<br />GERMANY ’26</p><div className="site-menu__contacts"><p>{siteContact.phones.map(item => <a key={item.href} href={item.href}>{item.label}</a>)}</p><p>{siteContact.emails.map(item => <a key={item.href} href={item.href}>{item.label}</a>)}</p></div></div>
       </div>
     </header>
   );
@@ -75,7 +76,7 @@ function Footer() {
     <div className="site-footer__brand"><p className="site-footer__logo">SOCCER<span>X</span>CAMP</p><p>{d.footer.statement}</p></div>
     <div className="site-footer__columns">
       <nav aria-label={d.footer.navigationLabel}><h2>{d.footer.links}</h2><LetterHoverLink href="/events/germany-2026">{d.nav.event}</LetterHoverLink><LetterHoverLink href="/about">{d.nav.about}</LetterHoverLink><LetterHoverLink href="/success-stories">{d.nav.success}</LetterHoverLink><LetterHoverLink href="/contact">{d.nav.contact}</LetterHoverLink></nav>
-      <address><h2>{d.nav.contact}</h2><div className="site-footer__contact"><LetterHoverLink href="tel:+306930393091">+30 6930 393091</LetterHoverLink><LetterHoverLink href="tel:+4917647324548">+49 176 47324548</LetterHoverLink><LetterHoverLink href="mailto:dp@soccerandmore.org">dp@soccerandmore.org</LetterHoverLink></div></address>
+      <address><h2>{d.nav.contact}</h2><div className="site-footer__contact">{siteContact.phones.map(item => <LetterHoverLink key={item.href} href={item.href}>{item.label}</LetterHoverLink>)}{siteContact.emails.map(item => <LetterHoverLink key={item.href} href={item.href}>{item.label}</LetterHoverLink>)}</div></address>
     </div>
     <div className="site-footer__bottom"><p>© {new Date().getFullYear()} SoccerX Camp</p><LetterHoverLink className="site-footer__credit" href="https://www.sabaweb.gr" target="_blank" rel="noreferrer">By Saba Web Solutions</LetterHoverLink><LetterHoverLink href="/privacy">{d.nav.privacy}</LetterHoverLink></div>
   </footer>;

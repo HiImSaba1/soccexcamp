@@ -6,6 +6,10 @@ import { dictionaries } from "@/i18n/dictionaries";
 import { localeCookieName, normalizeLocale } from "@/i18n/config";
 import "./globals.css";
 import "./layout-system.css";
+import "./ui-system.css";
+import "./hero-system.css";
+import "./story-system.css";
+import "./canvas-system.css";
 
 const inter = localFont({
   src: [
@@ -26,5 +30,5 @@ export const metadata: Metadata = {
 
 export default async function RootLayout({ children }: LayoutProps<"/">) {
   const locale = normalizeLocale((await cookies()).get(localeCookieName)?.value);
-  return <html lang={locale} className={inter.variable}><body><AppShell locale={locale} dictionary={dictionaries[locale]}>{children}</AppShell></body></html>;
+  return <html lang={locale} className={inter.variable} data-scroll-behavior="smooth"><body><AppShell locale={locale} dictionary={dictionaries[locale]}>{children}</AppShell></body></html>;
 }

@@ -1,0 +1,17 @@
+[
+  { "source": "/about-us", "destination": "/about", "permanent": true },
+  { "source": "/participation-form", "destination": "/apply", "permanent": true },
+  { "source": "/germany-26", "destination": "/events/germany-2026", "permanent": true },
+  { "source": "/privacy-policy", "destination": "/privacy", "permanent": true },
+  { "source": "/former-2023-book", "destination": "/talentbook", "permanent": true },
+  { "source": "/soccerxcamp-june-24", "destination": "/stories/june-2024", "permanent": true },
+  { "source": "/el/ποιοι-είμαστε", "destination": "/api/legacy-locale?redirect=/about", "permanent": false },
+  { "source": "/el/επικοινωνία", "destination": "/api/legacy-locale?redirect=/contact", "permanent": false },
+  { "source": "/el/φορμα-συμμετοχης", "destination": "/api/legacy-locale?redirect=/apply", "permanent": false },
+  { "source": "/el/επιτυχίες", "destination": "/api/legacy-locale?redirect=/success-stories", "permanent": false },
+  { "source": "/el/talentbook-gr", "destination": "/api/legacy-locale?redirect=/talentbook", "permanent": false },
+  { "source": "/el/βιβλίο-2023", "destination": "/api/legacy-locale?redirect=/talentbook", "permanent": false },
+  { "source": "/el/soccerxcamp-iounios-24", "destination": "/api/legacy-locale?redirect=/stories/june-2024", "permanent": false },
+  { "source": "/el/germany-2026", "destination": "/api/legacy-locale?redirect=/events/germany-2026", "permanent": false },
+  { "source": "/el/αρχική", "destination": "/api/legacy-locale?redirect=/", "permanent": false }
+]
