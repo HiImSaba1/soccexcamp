@@ -47,3 +47,6 @@ next-env.d.ts
 /migration/reports/author-inventory.json
 /migration/reports/content-inventory.json
 /migration/reports/link-inventory.json
+
+# quarantined media binaries are reviewed before selective publication
+/migration/review-media/

@@ -9,6 +9,8 @@ import type { Locale } from "@/i18n/config";
 import type { Dictionary } from "@/i18n/dictionaries";
 import { LocaleProvider, useLocale } from "@/providers/LocaleProvider";
 import { siteContact } from "@/content/site-contact";
+import { PageTransitionProvider } from "@/providers/PageTransitionProvider";
+import { GlobalRevealChoreography } from "@/components/motion/GlobalRevealChoreography";
 
 const navigation = [
   ["/", "home"], ["/events/germany-2026", "event"], ["/about", "about"],
@@ -54,7 +56,7 @@ function Header() {
     <header className="site-header" data-open={open ? "true" : undefined} data-scrolled={scrolled ? "true" : undefined}>
       <Link href="/" className="site-header__logo" aria-label="SoccerX Camp — Home" onClick={() => setOpen(false)}>SOCCER<span>X</span>CAMP</Link>
       <div className="site-header__actions">
-        <a className="site-header__locale" href={`/api/locale?locale=${next}&redirect=${encodeURIComponent(redirect)}`}>{next === "el" ? "GR" : "EN"}</a>
+        <a className="site-header__locale" data-no-page-transition href={`/api/locale?locale=${next}&redirect=${encodeURIComponent(redirect)}`}>{next === "el" ? "GR" : "EN"}</a>
         <Link className="site-header__apply" href="/apply" onClick={() => setOpen(false)}>{d.apply}</Link>
         <button ref={menuButton} className="site-header__menu-button" type="button" aria-expanded={open} aria-controls="site-menu" onClick={() => setOpen(value => !value)}>
           <span>{open ? d.close : d.menu}</span><span aria-hidden="true">{open ? <X /> : <Menu />}</span>
@@ -94,5 +96,5 @@ function FooterCurtain({ children }: { children: ReactNode }) {
 }
 
 export function AppShell({ locale, dictionary, children }: { locale: Locale; dictionary: Dictionary; children: ReactNode }) {
-  return <LocaleProvider locale={locale} dictionary={dictionary}><a className="skip-link" href="#main">{dictionary.skip}</a><Header /><div className="site-surface"><main id="main">{children}</main></div><FooterCurtain><Footer /></FooterCurtain></LocaleProvider>;
+  return <LocaleProvider locale={locale} dictionary={dictionary}><PageTransitionProvider><a className="skip-link" href="#main">{dictionary.skip}</a><Header /><div className="site-surface"><main id="main">{children}</main></div><FooterCurtain><Footer /></FooterCurtain><GlobalRevealChoreography /></PageTransitionProvider></LocaleProvider>;
 }

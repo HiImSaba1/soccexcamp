@@ -10,6 +10,9 @@ import "./ui-system.css";
 import "./hero-system.css";
 import "./story-system.css";
 import "./canvas-system.css";
+import "./form-system.css";
+import "./motion-system.css";
+import "yet-another-react-lightbox/styles.css";
 
 const inter = localFont({
   src: [

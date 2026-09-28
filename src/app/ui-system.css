@@ -7,3 +7,4 @@
 .parallax-image{position:relative;overflow:hidden}.parallax-image__media{position:absolute;inset:-15% 0;will-change:transform}.parallax-image__asset{object-fit:cover}
 .core-cta{padding:0;border:0}.about-copy .editorial-button{margin-top:1.25rem}
 @media(max-width:700px){.editorial-button{min-height:3.15rem;padding-left:1rem;font-size:.62rem}}
+.about-media::before,.about-media::after,.about-media i{display:none}.experience li>.parallax-image{position:relative;aspect-ratio:16/10;background:var(--green);overflow:hidden}

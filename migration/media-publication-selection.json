@@ -1,0 +1,19 @@
+{
+  "selectedAt": "2026-09-28",
+  "source": "verified WordPress media already published on soccerxcamp.com",
+  "selected": [
+    { "wordpressId": 1513, "publicFile": "talentbook-2023-cover.png", "usage": "historical Talentbook cover" },
+    { "wordpressId": 2297, "publicFile": "june-2024-match-01.jpg", "usage": "June 2024 story gallery" },
+    { "wordpressId": 2308, "publicFile": "june-2024-match-02.jpg", "usage": "homepage hero and June 2024 story gallery" },
+    { "wordpressId": 2310, "publicFile": "june-2024-match-03.jpg", "usage": "homepage hero and June 2024 story gallery" },
+    { "wordpressId": 2316, "publicFile": "june-2024-match-04.jpg", "usage": "homepage and June 2024 story gallery" },
+    { "wordpressId": 2317, "publicFile": "june-2024-team.jpg", "usage": "about section and June 2024 story gallery" },
+    { "wordpressId": 2318, "publicFile": "june-2024-goalkeeper.jpg", "usage": "June 2024 story gallery" },
+    { "wordpressId": 2320, "publicFile": "june-2024-match-05.jpg", "usage": "homepage hero and June 2024 story gallery" }
+  ],
+  "blocked": [
+    { "wordpressId": 1257, "reason": "PDF contains player names, birth dates, contact details and other personal data" },
+    { "wordpressId": 2589, "reason": "campaign badge promotes the expired 6-12 April 2026 event" }
+  ],
+  "withheld": "All other locally reviewed files remain outside public/ and are not referenced by the application."
+}

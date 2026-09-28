@@ -1,3 +1,15 @@
-"use client";import {useLocale} from "@/providers/LocaleProvider";
-const content={en:{eyebrow:"02 / The experience",title:"Built to reveal how you play.",items:[["Competitive football","Matches that demand decisions, discipline and personality."],["Professional perspective","A setting shaped around serious observation and useful feedback."],["International environment","Football, travel and shared ambition beyond one local context."]]},el:{eyebrow:"02 / Η εμπειρία",title:"Σχεδιασμένο για να δείξει πώς παίζεις.",items:[["Ανταγωνιστικό ποδόσφαιρο","Αγώνες που απαιτούν αποφάσεις, πειθαρχία και προσωπικότητα."],["Επαγγελματική οπτική","Ένα περιβάλλον σοβαρής παρατήρησης και χρήσιμης ανατροφοδότησης."],["Διεθνές περιβάλλον","Ποδόσφαιρο, ταξίδι και κοινή φιλοδοξία πέρα από το τοπικό πλαίσιο."]]}} as const;
-export function TournamentExperience(){const{locale}=useLocale();const c=content[locale];return <section className="experience"><p>{c.eyebrow}</p><h2>{c.title}</h2><ol>{c.items.map((item,index)=><li key={item[0]}><span>0{index+1}</span><h3>{item[0]}</h3><p>{item[1]}</p><div aria-hidden><i/></div></li>)}</ol></section>}
+"use client";
+
+import { ParallaxImage } from "@/components/motion/ParallaxImage";
+import { useLocale } from "@/providers/LocaleProvider";
+
+const content = {
+  en: { eyebrow: "02 / The experience", title: "Built to reveal how you play.", items: [["Competitive football", "Matches that demand decisions, discipline and personality."], ["Professional perspective", "A setting shaped around serious observation and useful feedback."], ["International environment", "Football, travel and shared ambition beyond one local context."]] },
+  el: { eyebrow: "02 / Η εμπειρία", title: "Σχεδιασμένο για να δείξει πώς παίζεις.", items: [["Ανταγωνιστικό ποδόσφαιρο", "Αγώνες που απαιτούν αποφάσεις, πειθαρχία και προσωπικότητα."], ["Επαγγελματική οπτική", "Ένα περιβάλλον σοβαρής παρατήρησης και χρήσιμης ανατροφοδότησης."], ["Διεθνές περιβάλλον", "Ποδόσφαιρο, ταξίδι και κοινή φιλοδοξία πέρα από το τοπικό πλαίσιο."]] },
+} as const;
+const images = ["/media/soccerxcamp/june-2024-match-04.jpg", "/media/soccerxcamp/june-2024-goalkeeper.jpg", "/media/soccerxcamp/june-2024-match-01.jpg"];
+
+export function TournamentExperience() {
+  const { locale } = useLocale(); const c = content[locale];
+  return <section className="experience"><p>{c.eyebrow}</p><h2>{c.title}</h2><ol>{c.items.map((item, index) => <li key={item[0]}><span>0{index + 1}</span><h3>{item[0]}</h3><p>{item[1]}</p><ParallaxImage src={images[index]} alt="" sizes="(max-width: 700px) 100vw, 25vw" speed={8} /></li>)}</ol></section>;
+}

@@ -1,0 +1,15 @@
+{
+  "approvedAt": "2026-09-28",
+  "approvalScope": "local-verification-only",
+  "publicationApproved": false,
+  "groups": {
+    "campaign": [2589, 2317],
+    "june-story": [2297, 2298, 2299, 2300, 2301, 2302, 2303, 2304, 2305, 2307, 2308, 2310, 2312, 2313, 2315, 2316, 2317, 2318, 2319, 2320],
+    "talentbook": [1257, 1513]
+  },
+  "notes": [
+    "Approval permits downloading into the ignored migration review directory.",
+    "Approval does not permit public publication.",
+    "Images containing players or minors require a separate rights and consent review."
+  ]
+}
