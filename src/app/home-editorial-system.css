@@ -13,3 +13,35 @@
 .home-testimonials__arrows button{width:3.25rem;height:3.25rem;display:grid;place-items:center;border:1px solid rgba(9,11,10,.22);border-radius:50%;background:transparent;color:var(--black);cursor:pointer;transition:background-color .3s ease,color .3s ease,transform .3s ease}.home-testimonials__arrows button:hover,.home-testimonials__arrows button:focus-visible{background:var(--green);color:white;transform:rotate(-8deg)}.home-testimonials__arrows button:last-child:hover,.home-testimonials__arrows button:last-child:focus-visible{transform:rotate(8deg)}.home-testimonials__arrows svg{width:1rem}
 .home-contact-cta{min-height:42rem;display:grid;place-items:center;align-content:center;padding:clamp(5rem,9vw,9rem) var(--gutter);background:var(--green);color:white;text-align:center}.home-contact-cta__heading{width:min(100%,76rem);display:grid;place-items:center}.home-contact-cta h2{max-width:18ch;margin:1.25rem 0;font-size:clamp(2.25rem,5vw,5rem);font-weight:600;line-height:.95;letter-spacing:-.05em;text-transform:uppercase}.home-contact-cta>p:not(.eyebrow){max-width:44rem;color:rgba(255,255,255,.72);line-height:1.7}.home-contact-cta .editorial-button{margin-top:1.5rem}
 @media(max-width:700px){.home-testimonials>header,.home-testimonials article{grid-template-columns:1fr}.home-testimonials article{gap:1rem}.home-testimonials article>svg{width:3rem}.home-testimonials>footer{align-items:flex-end}.home-testimonials__arrows button{width:3rem;height:3rem}.home-contact-cta{min-height:36rem}.home-contact-cta h2{font-size:clamp(1.9rem,9vw,3.2rem)}}
+
+.about-media-reveal {
+  position: relative;
+  grid-column: 4 / span 5;
+  min-width: 0;
+  min-height: 30rem;
+  overflow: hidden;
+}
+
+.about-media-reveal .about-media {
+  grid-column: auto;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 700px) {
+  .about-media-reveal {
+    min-height: 22rem;
+    margin-bottom: 2rem;
+  }
+
+  .about-media-reveal .about-media {
+    min-height: 22rem;
+    margin-bottom: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .about-media-reveal {
+    clip-path: none !important;
+  }
+}

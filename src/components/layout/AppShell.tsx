@@ -12,6 +12,7 @@ import { LocaleProvider, useLocale } from "@/providers/LocaleProvider";
 import { siteContact } from "@/content/site-contact";
 import { PageTransitionProvider } from "@/providers/PageTransitionProvider";
 import { GlobalRevealChoreography } from "@/components/motion/GlobalRevealChoreography";
+import { SmoothScroll } from "@/components/motion/SmoothScroll";
 
 const navigation = [
   ["/", "home"], ["/events/germany-2026", "event"], ["/about", "about"],
@@ -96,6 +97,36 @@ function FooterCurtain({ children }: { children: ReactNode }) {
   return <div className="footer-curtain" ref={curtainRef}><div className="footer-curtain__track"><div className="footer-curtain__sticky" ref={contentRef}>{children}</div></div></div>;
 }
 
-export function AppShell({ locale, dictionary, children }: { locale: Locale; dictionary: Dictionary; children: ReactNode }) {
-  return <LocaleProvider locale={locale} dictionary={dictionary}><PageTransitionProvider><a className="skip-link" href="#main">{dictionary.skip}</a><Header /><div className="site-surface"><main id="main">{children}</main></div><FooterCurtain><Footer /></FooterCurtain><GlobalRevealChoreography /></PageTransitionProvider></LocaleProvider>;
+export function AppShell({
+  locale,
+  dictionary,
+  children,
+}: {
+  locale: Locale;
+  dictionary: Dictionary;
+  children: ReactNode;
+}) {
+  return (
+    <LocaleProvider locale={locale} dictionary={dictionary}>
+      <PageTransitionProvider>
+        <SmoothScroll />
+
+        <a className="skip-link" href="#main">
+          {dictionary.skip}
+        </a>
+
+        <Header />
+
+        <div className="site-surface">
+          <main id="main">{children}</main>
+        </div>
+
+        <FooterCurtain>
+          <Footer />
+        </FooterCurtain>
+
+        <GlobalRevealChoreography />
+      </PageTransitionProvider>
+    </LocaleProvider>
+  );
 }
