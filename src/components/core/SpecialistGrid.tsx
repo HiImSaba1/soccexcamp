@@ -12,5 +12,5 @@ const specialists = [
 
 export function SpecialistGrid() {
   const { locale } = useLocale();
-  return <section className="specialists" aria-labelledby="specialists-title"><header><p>04 / {locale === "el" ? "Η ομάδα" : "The team"}</p><h2 id="specialists-title">{locale === "el" ? "Οι άνθρωποι πίσω από το SoccerX Camp." : "The people behind SoccerX Camp."}</h2></header><div className="specialists__grid">{specialists.map(person => <article key={person.name}><ParallaxImage src={person.image} alt={person.name} sizes="(max-width: 700px) 100vw, 25vw" speed={6} imageClassName="specialists__portrait" /><p>{person.role[locale]}</p><h3>{person.name}</h3></article>)}</div></section>;
+  return <section className="specialists" aria-labelledby="specialists-title"><header><p>04 / {locale === "el" ? "Η ομάδα" : "The team"}</p><h2 id="specialists-title">{locale === "el" ? "Οι άνθρωποι πίσω από το SoccerX Camp." : "The people behind SoccerX Camp."}</h2></header><div className="specialists__grid">{specialists.map(person => <article key={person.name}><ParallaxImage src={person.image} alt={person.name} sizes="(max-width: 520px) 92vw, (max-width: 800px) 46vw, 24vw" speed={0} imageClassName="specialists__portrait" /><p>{person.role[locale]}</p><h3>{person.name}</h3></article>)}</div></section>;
 }

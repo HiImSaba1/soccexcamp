@@ -99,7 +99,7 @@ try {
 
     $blockedFiles = @(
         $stagedFiles | Where-Object {
-            $_ -match '(^|/)(\.env(?:\..*)?|node_modules|\.next|coverage|playwright-report|test-results)(/|$)' -or
+            ($_ -ne '.env.example' -and $_ -match '(^|/)(\.env(?:\..*)?|node_modules|\.next|coverage|playwright-report|test-results)(/|$)') -or
             $_ -match '\.pem$' -or
             $_ -match '\.key$' -or
             $_ -match '\.pfx$' -or

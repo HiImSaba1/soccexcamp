@@ -2,6 +2,7 @@ import type { NextConfig } from "next";
 import redirects from "./migration/generated/redirects.json";
 
 const nextConfig: NextConfig = {
+  output: "standalone",
   async redirects() {
     return redirects;
   },
