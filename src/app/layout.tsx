@@ -30,6 +30,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.soccerxcamp.com"),
   title: { default: "SoccerX Camp", template: "%s | SoccerX Camp" },
   description: "International football trials and scouting experiences for ambitious young players.",
+  icons: {
+    icon: [{ url: "/media/wordpress/629-soccerxcamp-logo.png", type: "image/png" }],
+    shortcut: "/media/wordpress/629-soccerxcamp-logo.png",
+    apple: "/media/wordpress/629-soccerxcamp-logo.png",
+  },
   alternates: { canonical: "/" },
   openGraph: { title: "SoccerX Camp", description: "International football trials and scouting experiences.", url: "/", siteName: "SoccerX Camp", type: "website", images: [{ url: "/media/wordpress/499-soccerxcamp.jpg", width: 1024, height: 610, alt: "SoccerX Camp" }] },
   twitter: { card: "summary_large_image", title: "SoccerX Camp", description: "International football trials and scouting experiences.", images: ["/media/wordpress/499-soccerxcamp.jpg"] },

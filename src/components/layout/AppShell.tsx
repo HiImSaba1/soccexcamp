@@ -55,7 +55,7 @@ function Header() {
 
   return (
     <header className="site-header" data-open={open ? "true" : undefined} data-scrolled={scrolled ? "true" : undefined}>
-      <Link href="/" className="site-header__logo" aria-label="SoccerX Camp — Home" onClick={() => setOpen(false)}><Image src="/media/wordpress/161-soccer_x_camp_logo_ok.png" alt="" width={500} height={500} sizes="(max-width: 700px) 3.75rem, 4rem" priority /></Link>
+      <Link href="/" className="site-header__logo" aria-label="SoccerX Camp — Home" onClick={() => setOpen(false)}><Image src="/media/wordpress/161-soccer_x_camp_logo_ok.png" alt="" width={500} height={500} sizes="(max-width: 700px) 5.75rem, 7rem" priority /></Link>
       <div className="site-header__actions">
         <a className="site-header__locale" data-no-page-transition href={`/api/locale?locale=${next}&redirect=${encodeURIComponent(redirect)}`}>{next === "el" ? "GR" : "EN"}</a>
         <Link className="site-header__apply" href="/apply" onClick={() => setOpen(false)}>{d.apply}</Link>

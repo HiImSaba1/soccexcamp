@@ -4,6 +4,9 @@ import { describe, expect, it } from "vitest";
 
 const referencedMedia = [
   "public/media/wordpress/161-soccer_x_camp_logo_ok.png",
+  "public/media/wordpress/629-soccerxcamp-logo.png",
+  "public/media/wordpress/70-soccer_camp_section_2-scaled.jpg",
+  "public/media/wordpress/71-kids_playing_2-scaled.jpg",
   "public/media/wordpress/195-maragozidis_tasos.jpg",
   "public/media/wordpress/197-dimitris_petkakis.jpg",
   "public/media/wordpress/198-dora_ioakeimidou.jpg",

@@ -10,8 +10,8 @@ const heroMedia: Record<CorePageKey, { src: string; alt: { en: string; el: strin
   success: { src: "/media/wordpress/1547-giannouis_maragozidis.png", alt: { en: "SoccerX Camp player pathway and professional football network", el: "Η πορεία παικτών και το επαγγελματικό δίκτυο του SoccerX Camp" } },
   event: { src: "/media/wordpress/2678-soccerxcamp_april_trails_germany_main.jpg", alt: { en: "SoccerX Trials Germany event", el: "Διοργάνωση SoccerX Trials στη Γερμανία" } },
   apply: { src: "/media/soccerxcamp/june-2024-match-05.jpg", alt: { en: "Footballers competing at SoccerX Camp", el: "Ποδοσφαιριστές αγωνίζονται στο SoccerX Camp" } },
-  talentbook: { src: "/media/wordpress/1513-soccerxcamp_talentbook.png", alt: { en: "SoccerX Camp Talentbook publication", el: "Έκδοση Talentbook του SoccerX Camp" } },
-  contact: { src: "/media/wordpress/326-dora_soccerxcamp.jpg", alt: { en: "SoccerX Camp team representative", el: "Εκπρόσωπος της ομάδας SoccerX Camp" } },
+  talentbook: { src: "/media/wordpress/71-kids_playing_2-scaled.jpg", alt: { en: "Young footballers training at SoccerX Camp", el: "Νεαροί ποδοσφαιριστές προπονούνται στο SoccerX Camp" } },
+  contact: { src: "/media/wordpress/70-soccer_camp_section_2-scaled.jpg", alt: { en: "SoccerX Camp football training", el: "Ποδοσφαιρική προπόνηση στο SoccerX Camp" } },
   privacy: { src: "/media/wordpress/499-soccerxcamp.jpg", alt: { en: "SoccerX Camp players and organizers", el: "Παίκτες και διοργανωτές του SoccerX Camp" } },
 };
 
@@ -20,7 +20,7 @@ export function CorePage({ page }: { page: CorePageKey }) {
   const content = getCorePage(locale, page);
   const media = heroMedia[page];
 
-  return <article className="core-page">
+  return <article className={`core-page core-page--${page}`}>
     <header className="core-hero">
       <ParallaxImage className="core-hero__media" src={media.src} alt={media.alt[locale]} sizes="100vw" speed={5} loading="eager" fetchPriority="high" />
       <div className="core-hero__veil" aria-hidden="true" />
