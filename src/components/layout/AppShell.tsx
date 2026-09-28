@@ -1,6 +1,7 @@
 "use client";
 
 import { Menu, X } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
 import { useEffect, useRef, useState, type ReactNode } from "react";
@@ -54,7 +55,7 @@ function Header() {
 
   return (
     <header className="site-header" data-open={open ? "true" : undefined} data-scrolled={scrolled ? "true" : undefined}>
-      <Link href="/" className="site-header__logo" aria-label="SoccerX Camp — Home" onClick={() => setOpen(false)}>SOCCER<span>X</span>CAMP</Link>
+      <Link href="/" className="site-header__logo" aria-label="SoccerX Camp — Home" onClick={() => setOpen(false)}><Image src="/media/wordpress/161-soccer_x_camp_logo_ok.png" alt="" width={500} height={500} sizes="(max-width: 700px) 3.75rem, 4rem" priority /></Link>
       <div className="site-header__actions">
         <a className="site-header__locale" data-no-page-transition href={`/api/locale?locale=${next}&redirect=${encodeURIComponent(redirect)}`}>{next === "el" ? "GR" : "EN"}</a>
         <Link className="site-header__apply" href="/apply" onClick={() => setOpen(false)}>{d.apply}</Link>
@@ -75,7 +76,7 @@ function Header() {
 function Footer() {
   const { dictionary: d } = useLocale();
   return <footer className="site-footer">
-    <div className="site-footer__brand"><p className="site-footer__logo">SOCCER<span>X</span>CAMP</p><p>{d.footer.statement}</p></div>
+    <div className="site-footer__brand"><Link href="/" className="site-footer__logo" aria-label="SoccerX Camp — Home"><Image src="/media/wordpress/161-soccer_x_camp_logo_ok.png" alt="" width={500} height={500} sizes="8rem" /></Link><p>{d.footer.statement}</p></div>
     <div className="site-footer__columns">
       <nav aria-label={d.footer.navigationLabel}><h2>{d.footer.links}</h2><LetterHoverLink href="/events/germany-2026">{d.nav.event}</LetterHoverLink><LetterHoverLink href="/about">{d.nav.about}</LetterHoverLink><LetterHoverLink href="/success-stories">{d.nav.success}</LetterHoverLink><LetterHoverLink href="/contact">{d.nav.contact}</LetterHoverLink></nav>
       <address><h2>{d.nav.contact}</h2><div className="site-footer__contact">{siteContact.phones.map(item => <LetterHoverLink key={item.href} href={item.href}>{item.label}</LetterHoverLink>)}{siteContact.emails.map(item => <LetterHoverLink key={item.href} href={item.href}>{item.label}</LetterHoverLink>)}</div></address>

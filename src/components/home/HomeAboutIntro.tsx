@@ -10,7 +10,7 @@ export function HomeAboutIntro() {
   return <section className="home-about">
     <p>{d.about.eyebrow}</p>
     <SplitReveal className="about-title">{d.about.title}</SplitReveal>
-    <ParallaxImage className="about-media" src="/media/soccerxcamp/june-2024-team.jpg" alt={locale === "el" ? "Η ομάδα του SoccerX Camp δίπλα στον αγωνιστικό χώρο" : "The SoccerX Camp team beside the football pitch"} sizes="(max-width: 700px) 100vw, 42vw" />
+    <ParallaxImage className="about-media about-media--contain" imageClassName="about-media__asset" src="/media/soccerxcamp/june-2024-team.jpg" alt={locale === "el" ? "Η ομάδα του SoccerX Camp δίπλα στον αγωνιστικό χώρο" : "The SoccerX Camp team beside the football pitch"} sizes="(max-width: 700px) 100vw, 42vw" speed={0} />
     <div className="about-copy"><p>{d.about.body}</p><EditorialButton href="/about" label={d.about.cta} tone="dark" /></div>
   </section>;
 }

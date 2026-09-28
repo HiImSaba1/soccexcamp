@@ -1,1 +1,1 @@
-import type{Metadata}from"next";import{CorePage}from"@/components/core/CorePage";export const metadata:Metadata={title:"Privacy",alternates:{canonical:"/privacy"}};export default function Page(){return <CorePage page="privacy"/>}
+import type{Metadata}from"next";import{CorePage}from"@/components/core/CorePage";export const metadata:Metadata={title:"Privacy",description:"Privacy information for the SoccerX Camp website and future participation workflow.",alternates:{canonical:"/privacy"}};export default function Page(){return <CorePage page="privacy"/>}
