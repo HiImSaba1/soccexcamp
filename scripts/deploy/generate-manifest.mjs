@@ -21,14 +21,14 @@ function sha256(file) {
 }
 
 function glibcVersions(file) {
-  try {
-    const output = execFileSync("strings", [file], { encoding: "utf8" });
-    return [...new Set(output.match(/GLIBC_\d+(?:\.\d+)*/g) ?? [])]
-      .map((value) => value.replace("GLIBC_", ""))
-      .sort((left, right) => left.localeCompare(right, undefined, { numeric: true }));
-  } catch {
-    return [];
-  }
+  const output = execFileSync("strings", ["-a", file], {
+    encoding: "utf8",
+    maxBuffer: 128 * 1024 * 1024,
+  });
+
+  return [...new Set(output.match(/GLIBC_\d+(?:\.\d+)*/g) ?? [])]
+    .map((value) => value.replace("GLIBC_", ""))
+    .sort((left, right) => left.localeCompare(right, undefined, { numeric: true }));
 }
 
 function compareVersions(left, right) {

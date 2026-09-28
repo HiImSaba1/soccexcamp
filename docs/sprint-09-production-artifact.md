@@ -37,7 +37,7 @@ The verifier rejects `.env*`, PEM files, the WordPress XML, Git metadata, test o
 
 ## Native compatibility report
 
-Every packaged `*.node`, `*.so`, and versioned `*.so.*` runtime binary is hashed and listed in both manifests. When GNU `strings` finds referenced `GLIBC_*` symbols, the report includes every version and the highest version for that binary. The build fails if a glibc-linked runtime binary requires newer than the Papaki target, `GLIBC_2.28`. This is evidence for host-compatibility review; it is not permission to change production glibc or upload the artifact.
+Every packaged `*.node`, `*.so`, and versioned `*.so.*` runtime binary is hashed and listed in both manifests. GNU `strings` inspection uses an explicit large output buffer, and an inspection failure stops the build instead of being recorded as an empty result. When referenced `GLIBC_*` symbols exist, the report includes every version and the highest version for that binary. The build fails if a glibc-linked runtime binary requires newer than the Papaki target, `GLIBC_2.28`. This is evidence for host-compatibility review; it is not permission to change production glibc or upload the artifact.
 
 ## Sprint boundary
 
