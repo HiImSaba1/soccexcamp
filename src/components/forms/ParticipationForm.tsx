@@ -414,15 +414,9 @@ export function ParticipationForm() {
               type="submit"
               disabled={status === "sending"}
             >
-              <span>
-                {status === "sending"
-                  ? text.sending
-                  : text.submit}
-              </span>
-
-              <ArrowUpRight
-                aria-hidden="true"
-              />
+              <span className="action-button__fill" aria-hidden="true" />
+              <span className="action-button__label"><span>{status === "sending" ? text.sending : text.submit}</span><span aria-hidden="true">{status === "sending" ? text.sending : text.submit}</span></span>
+              <span className="action-button__arrow" aria-hidden="true"><ArrowUpRight /></span>
             </button>
 
             {status === "error" && (

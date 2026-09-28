@@ -18,9 +18,11 @@ wsl.exe bash -lc "cd /mnt/c/Users/sab_j/Desktop/Projects/Soccerxcamp/web && bash
 
 The output is written to ignored `artifacts/` files:
 
-- `soccerxcamp-standalone-<sha>.tar.gz`
-- `soccerxcamp-standalone-<sha>.tar.gz.sha256`
-- `soccerxcamp-standalone-<sha>.tar.gz.manifest.json`
+- `soccerxcamp-papaki-next-build.tar.gz`
+- `soccerxcamp-papaki-next-build.tar.gz.sha256`
+- `soccerxcamp-papaki-next-build.tar.gz.manifest.json`
+
+The checksum contains only the archive filename, so it remains portable after downloading the GitHub Actions artifact.
 
 Do not upload an artifact until the builder reports that integrity and content checks passed and the manifest has been reviewed.
 

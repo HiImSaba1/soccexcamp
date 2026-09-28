@@ -38,7 +38,7 @@ export function ContactForm() {
       <div className="contact-form__field contact-form__field--message"><label htmlFor="contact-message">{text.message} *</label><textarea id="contact-message" name="message" rows={7} minLength={10} maxLength={4000} required /></div>
       <div className="contact-form__honeypot" aria-hidden="true"><label htmlFor="contact-website">Website</label><input id="contact-website" name="website" tabIndex={-1} autoComplete="off" /></div>
       <label className="contact-form__consent"><input name="consent" type="checkbox" required /><span>{text.consent} <Link href="/privacy">{text.privacy}</Link>.</span></label>
-      <div className="contact-form__actions"><button type="submit" disabled={status === "sending"}><span>{status === "sending" ? text.sending : text.submit}</span><ArrowUpRight aria-hidden="true" /></button>{status === "error" && <p role="alert">{text.error}</p>}</div>
+      <div className="contact-form__actions"><button type="submit" disabled={status === "sending"}><span className="action-button__fill" aria-hidden="true" /><span className="action-button__label"><span>{status === "sending" ? text.sending : text.submit}</span><span aria-hidden="true">{status === "sending" ? text.sending : text.submit}</span></span><span className="action-button__arrow" aria-hidden="true"><ArrowUpRight /></span></button>{status === "error" && <p role="alert">{text.error}</p>}</div>
     </form>}
   </section>;
 }

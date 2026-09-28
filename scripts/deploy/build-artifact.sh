@@ -17,7 +17,7 @@ repo_root="$(git rev-parse --show-toplevel)"
 cd "$repo_root"
 
 if [[ -n "$(git status --porcelain --untracked-files=normal)" ]]; then
-  echo "Refusing to package a dirty repository. Commit Sprint 9 first." >&2
+  echo "Refusing to package a dirty repository. Commit the approved sprint first." >&2
   git status --short >&2
   exit 1
 fi
@@ -34,13 +34,12 @@ if [[ "$node_version" != 22.* ]]; then
 fi
 
 git_sha="$(git rev-parse HEAD)"
-short_sha="$(git rev-parse --short=12 HEAD)"
 build_timestamp="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
 artifact_dir="$repo_root/artifacts"
 work_dir="$(mktemp -d)"
 source_dir="$work_dir/source"
 release_dir="$work_dir/release"
-artifact_name="soccerxcamp-standalone-${short_sha}.tar.gz"
+artifact_name="soccerxcamp-papaki-next-build.tar.gz"
 
 cleanup() { rm -rf -- "$work_dir"; }
 trap cleanup EXIT
@@ -51,7 +50,7 @@ cd "$source_dir"
 export NEXT_TELEMETRY_DISABLED=1
 
 echo "Installing the committed Linux dependency tree..."
-npm ci
+npm ci --include=dev
 npm test
 npm run lint
 npx tsc --noEmit
@@ -81,9 +80,10 @@ fi
 
 cd "$work_dir"
 tar -czf "$artifact_dir/$artifact_name" -C "$release_dir" .
-sha256sum "$artifact_dir/$artifact_name" > "$artifact_dir/$artifact_name.sha256"
+cd "$artifact_dir"
+sha256sum "$artifact_name" > "$artifact_name.sha256"
 
-artifact_sha="$(cut -d ' ' -f 1 "$artifact_dir/$artifact_name.sha256")"
+artifact_sha="$(cut -d ' ' -f 1 "$artifact_name.sha256")"
 artifact_bytes="$(stat -c '%s' "$artifact_dir/$artifact_name")"
 node -e '
   const fs = require("node:fs");

@@ -1,6 +1,7 @@
 "use client";
 
 import { createContext, useCallback, useContext, useEffect, useRef, useState, type ReactNode, type TransitionEvent } from "react";
+import Image from "next/image";
 import { usePathname, useRouter } from "next/navigation";
 
 type Phase = "idle" | "covering" | "covered" | "revealing";
@@ -8,7 +9,7 @@ type Value = { isPageReady: boolean; navigateTo: (href: string) => void };
 const Context = createContext<Value | null>(null);
 export function usePageTransition() { const value = useContext(Context); if (!value) throw new Error("usePageTransition must be used inside PageTransitionProvider."); return value; }
 
-function bypass(pathname: string) { return ["/api", "/apply", "/contact"].some(prefix => pathname === prefix || pathname.startsWith(`${prefix}/`)); }
+function bypass(pathname: string) { return pathname === "/api" || pathname.startsWith("/api/"); }
 
 export function PageTransitionProvider({ children }: { children: ReactNode }) {
   const pathname = usePathname(); const router = useRouter(); const [phase, setPhase] = useState<Phase>("idle"); const [isPageReady, setIsPageReady] = useState(true);
@@ -38,5 +39,5 @@ export function PageTransitionProvider({ children }: { children: ReactNode }) {
     document.addEventListener("click", handleClick, true); return () => document.removeEventListener("click", handleClick, true);
   }, [navigateTo, pathname]);
   const covered = phase === "covering" || phase === "covered";
-  return <Context.Provider value={{ isPageReady, navigateTo }}>{children}<div aria-hidden="true" data-transition-state={phase} className="page-transition-curtain" onTransitionEnd={finish} style={{ transform: covered ? "translateY(0)" : phase === "revealing" ? "translateY(-100%)" : "translateY(100%)", visibility: phase === "idle" ? "hidden" : "visible", transition: phase === "idle" ? "none" : "transform 850ms cubic-bezier(.77,0,.18,1)" }}><span>SOCCER<span>X</span>CAMP</span></div></Context.Provider>;
+  return <Context.Provider value={{ isPageReady, navigateTo }}>{children}<div aria-hidden="true" data-transition-state={phase} className="page-transition-curtain" onTransitionEnd={finish} style={{ transform: covered ? "translateY(0)" : phase === "revealing" ? "translateY(-100%)" : "translateY(100%)", visibility: phase === "idle" ? "hidden" : "visible", transition: phase === "idle" ? "none" : "transform 850ms cubic-bezier(.77,0,.18,1)" }}><div className="page-transition-curtain__brand"><Image src="/media/wordpress/161-soccer_x_camp_logo_ok.png" alt="" width={500} height={500} sizes="clamp(7rem, 15vw, 11rem)" priority /><span>SOCCER <strong>X</strong> CAMP</span></div></div></Context.Provider>;
 }

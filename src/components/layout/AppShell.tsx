@@ -3,7 +3,7 @@
 import { Menu, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import { usePathname, useSearchParams } from "next/navigation";
+import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { LetterHoverLink } from "@/components/ui/LetterHoverLink";
 import type { Locale } from "@/i18n/config";
@@ -13,6 +13,7 @@ import { siteContact } from "@/content/site-contact";
 import { PageTransitionProvider } from "@/providers/PageTransitionProvider";
 import { GlobalRevealChoreography } from "@/components/motion/GlobalRevealChoreography";
 import { SmoothScroll } from "@/components/motion/SmoothScroll";
+import { LanguageSwitcher } from "@/components/layout/LanguageSwitcher";
 
 const navigation = [
   ["/", "home"], ["/events/germany-2026", "event"], ["/about", "about"],
@@ -21,15 +22,12 @@ const navigation = [
 ] as const;
 
 function Header() {
-  const { locale, dictionary: d } = useLocale();
+  const { dictionary: d } = useLocale();
   const pathname = usePathname();
-  const search = useSearchParams();
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const menuButton = useRef<HTMLButtonElement>(null);
   const menu = useRef<HTMLDivElement>(null);
-  const next = locale === "en" ? "el" : "en";
-  const redirect = `${pathname}${search.size ? `?${search}` : ""}`;
 
   useEffect(() => {
     const updateHeader = () => setScrolled(window.scrollY >= 150);
@@ -58,7 +56,7 @@ function Header() {
     <header className="site-header" data-open={open ? "true" : undefined} data-scrolled={scrolled ? "true" : undefined}>
       <Link href="/" className="site-header__logo" aria-label="SoccerX Camp — Home" onClick={() => setOpen(false)}><Image src="/media/wordpress/161-soccer_x_camp_logo_ok.png" alt="" width={500} height={500} sizes="(max-width: 700px) 5.75rem, 7rem" priority /></Link>
       <div className="site-header__actions">
-        <a className="site-header__locale" data-no-page-transition href={`/api/locale?locale=${next}&redirect=${encodeURIComponent(redirect)}`}>{next === "el" ? "GR" : "EN"}</a>
+        <LanguageSwitcher />
         <Link className="site-header__apply" href="/apply" onClick={() => setOpen(false)}>{d.apply}</Link>
         <button ref={menuButton} className="site-header__menu-button" type="button" aria-expanded={open} aria-controls="site-menu" onClick={() => setOpen(value => !value)}>
           <span>{open ? d.close : d.menu}</span><span aria-hidden="true">{open ? <X /> : <Menu />}</span>
