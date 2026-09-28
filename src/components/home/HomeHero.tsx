@@ -1,0 +1,2 @@
+"use client";import Link from "next/link";import {useLocale} from "@/providers/LocaleProvider";
+export function HomeHero(){const{dictionary:d}=useLocale();return <section className="home-hero"><div className="hero-lines" aria-hidden/><div className="hero-meta"><p>{d.hero.eyebrow}</p><p>{d.hero.meta}</p></div><h1>{d.hero.title.split("\n").map(x=><span key={x}>{x}</span>)}</h1><div className="hero-action"><b>SOCCERX<br/>TRIALS</b><Link href="/events/germany-2026">{d.hero.cta} ↗</Link></div></section>}

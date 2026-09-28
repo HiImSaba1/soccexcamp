@@ -1,0 +1,3 @@
+import { type NextRequest, NextResponse } from "next/server";
+import { localeCookieName, normalizeLocale } from "@/i18n/config";
+export function GET(request: NextRequest) { const locale=normalizeLocale(request.nextUrl.searchParams.get("locale")??undefined); const candidate=request.nextUrl.searchParams.get("redirect")??"/"; const redirect=candidate.startsWith("/")&&!candidate.startsWith("//")?candidate:"/"; const response=NextResponse.redirect(new URL(redirect,request.url)); response.cookies.set(localeCookieName,locale,{httpOnly:true,maxAge:31_536_000,path:"/",sameSite:"lax",secure:process.env.NODE_ENV==="production"}); return response; }

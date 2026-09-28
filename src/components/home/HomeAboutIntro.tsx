@@ -1,0 +1,2 @@
+"use client";import Link from "next/link";import {SplitReveal} from "@/components/motion/SplitReveal";import {useLocale} from "@/providers/LocaleProvider";
+export function HomeAboutIntro(){const{dictionary:d}=useLocale();return <section className="home-about"><p>{d.about.eyebrow}</p><SplitReveal className="about-title">{d.about.title}</SplitReveal><div className="about-media" role="img" aria-label={d.about.visual}><i/></div><div className="about-copy"><p>{d.about.body}</p><Link href="/about">{d.about.cta} ↗</Link></div></section>}
