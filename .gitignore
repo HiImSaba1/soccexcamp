@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# immutable local migration inputs
+/soccerxcamp.WordPress.2026-09-28.xml
