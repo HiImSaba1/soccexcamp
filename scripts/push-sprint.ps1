@@ -85,6 +85,12 @@ try {
         throw 'The repository is in detached HEAD state. Check out a branch before pushing.'
     }
 
+    if ($branch -eq 'master') {
+        Write-Host "Renaming the initial branch from 'master' to 'main'..." -ForegroundColor Cyan
+        Invoke-Git -Arguments @('branch', '-M', 'main') -Step 'Renaming the initial branch'
+        $branch = 'main'
+    }
+
     Write-Host 'Staging repository changes...' -ForegroundColor Cyan
     Invoke-Git -Arguments @('add', '--all') -Step 'Staging changes'
 
@@ -120,8 +126,10 @@ try {
     Invoke-Git -Arguments @('commit', '-m', $commitMessage) -Step 'Creating the sprint commit'
 
     Write-Host "Pushing branch '$branch'..." -ForegroundColor Cyan
-    & git rev-parse --abbrev-ref --symbolic-full-name '@{upstream}' *> $null
-    if ($LASTEXITCODE -eq 0) {
+    $upstream = (& git for-each-ref '--format=%(upstream:short)' "refs/heads/$branch").Trim()
+    Assert-LastCommandSucceeded -Step 'Reading branch upstream'
+
+    if (-not [string]::IsNullOrWhiteSpace($upstream)) {
         Invoke-Git -Arguments @('push') -Step 'Pushing the sprint commit'
     }
     else {
