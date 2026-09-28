@@ -5,6 +5,7 @@ import { AppShell } from "@/components/layout/AppShell";
 import { dictionaries } from "@/i18n/dictionaries";
 import { localeCookieName, normalizeLocale } from "@/i18n/config";
 import "./globals.css";
+import "./layout-system.css";
 
 const inter = localFont({
   src: [

@@ -1,0 +1,1 @@
+import type{Metadata}from"next";import{CorePage}from"@/components/core/CorePage";export const metadata:Metadata={title:"Privacy",alternates:{canonical:"/privacy"}};export default function Page(){return <CorePage page="privacy"/>}

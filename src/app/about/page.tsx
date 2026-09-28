@@ -1,0 +1,1 @@
+import type{Metadata}from"next";import{CorePage}from"@/components/core/CorePage";export const metadata:Metadata={title:"About",alternates:{canonical:"/about"}};export default function Page(){return <CorePage page="about"/>}

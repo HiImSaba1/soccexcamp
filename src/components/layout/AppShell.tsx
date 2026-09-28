@@ -1,6 +1,97 @@
 "use client";
-import Link from "next/link";import {usePathname,useSearchParams} from "next/navigation";import {useEffect,useRef,useState,type ReactNode} from "react";import {useGSAP} from "@gsap/react";import {gsap} from "@/lib/motion/gsap";import {LocaleProvider,useLocale} from "@/providers/LocaleProvider";import type {Locale} from "@/i18n/config";import type {Dictionary} from "@/i18n/dictionaries";
-const nav=[["/events/germany-2026","event"],["/about","about"],["/success-stories","success"],["/talentbook","talentbook"],["/contact","contact"]] as const;
-function Header(){const{locale,dictionary:d}=useLocale();const[open,setOpen]=useState(false);const root=useRef<HTMLElement>(null);const panel=useRef<HTMLDivElement>(null);const pathname=usePathname();const search=useSearchParams();const next=locale==="en"?"el":"en";const redirect=`${pathname}${search.size?`?${search}`:""}`;useGSAP(()=>{if(!panel.current)return;const items=gsap.utils.toArray("[data-menu-item]");if(matchMedia("(prefers-reduced-motion: reduce)").matches){gsap.set(panel.current,{display:open?"grid":"none",clipPath:"none"});return}const tl=gsap.timeline();if(open)tl.set(panel.current,{display:"grid",pointerEvents:"auto"}).fromTo(panel.current,{clipPath:"inset(0 0 100% 0)"},{clipPath:"inset(0 0 0% 0)",duration:.85,ease:"power4.inOut"}).fromTo(items,{yPercent:115},{yPercent:0,duration:.7,stagger:.06,ease:"power4.out"},.35);else tl.to(items,{yPercent:-115,duration:.35,stagger:.03}).to(panel.current,{clipPath:"inset(0 0 100% 0)",duration:.65}).set(panel.current,{display:"none"});return()=>tl.kill()},{scope:root,dependencies:[open],revertOnUpdate:true});useEffect(()=>{document.documentElement.style.overflow=open?"hidden":"";return()=>{document.documentElement.style.overflow=""}},[open]);return <header ref={root} className="site-header"><Link href="/" className="logo">SOCCER<span>X</span>CAMP</Link><div className="header-actions"><a href={`/api/locale?locale=${next}&redirect=${encodeURIComponent(redirect)}`}>{next==="el"?"GR":"EN"}</a><Link className="apply" href="/apply">{d.apply}</Link><button onClick={()=>setOpen(v=>!v)} aria-expanded={open} aria-controls="site-menu">{open?d.close:d.menu}</button></div><div ref={panel} id="site-menu" className="site-menu"><nav>{nav.map(([href,key],i)=><div className="menu-row" key={href}><Link data-menu-item href={href} onClick={()=>setOpen(false)}><small>0{i+1}</small>{d.nav[key]}</Link></div>)}</nav><strong>THE NEXT<br/>MOVE IS YOURS.</strong></div></header>}
-function Footer(){const{dictionary:d}=useLocale();return <footer className="site-footer"><p>SOCCERX CAMP · GERMANY ’26</p><h2>{d.footer.title.split("\n").map(x=><span key={x}>{x}</span>)}</h2><div className="footer-contact"><a href="tel:+306930393091">+30 6930 393091</a><a href="tel:+4917647324548">+49 176 47324548</a><a href="mailto:dp@soccerandmore.org">dp@soccerandmore.org</a></div><div className="footer-bottom"><span>© {new Date().getFullYear()} SoccerX Camp</span><Link href="/privacy">Privacy</Link><span>{d.footer.rights}</span></div></footer>}
-export function AppShell({locale,dictionary,children}:{locale:Locale;dictionary:Dictionary;children:ReactNode}){return <LocaleProvider locale={locale} dictionary={dictionary}><a className="skip-link" href="#main">{dictionary.skip}</a><Header/><div className="site-surface"><main id="main">{children}</main></div><Footer/></LocaleProvider>}
+
+import { Menu, X } from "lucide-react";
+import Link from "next/link";
+import { usePathname, useSearchParams } from "next/navigation";
+import { useEffect, useRef, useState, type ReactNode } from "react";
+import { LetterHoverLink } from "@/components/ui/LetterHoverLink";
+import type { Locale } from "@/i18n/config";
+import type { Dictionary } from "@/i18n/dictionaries";
+import { LocaleProvider, useLocale } from "@/providers/LocaleProvider";
+
+const navigation = [
+  ["/", "home"], ["/events/germany-2026", "event"], ["/about", "about"],
+  ["/success-stories", "success"], ["/talentbook", "talentbook"],
+  ["/contact", "contact"], ["/apply", "apply"], ["/privacy", "privacy"],
+] as const;
+
+function Header() {
+  const { locale, dictionary: d } = useLocale();
+  const pathname = usePathname();
+  const search = useSearchParams();
+  const [open, setOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+  const menuButton = useRef<HTMLButtonElement>(null);
+  const menu = useRef<HTMLDivElement>(null);
+  const next = locale === "en" ? "el" : "en";
+  const redirect = `${pathname}${search.size ? `?${search}` : ""}`;
+
+  useEffect(() => {
+    const updateHeader = () => setScrolled(window.scrollY >= 150);
+    updateHeader();
+    window.addEventListener("scroll", updateHeader, { passive: true });
+    return () => window.removeEventListener("scroll", updateHeader);
+  }, []);
+
+  useEffect(() => {
+    document.documentElement.style.overflow = open ? "hidden" : "";
+    const timer = open ? window.setTimeout(() => menu.current?.querySelector<HTMLAnchorElement>("nav a")?.focus(), 50) : undefined;
+    return () => { document.documentElement.style.overflow = ""; if (timer) window.clearTimeout(timer); };
+  }, [open]);
+
+  useEffect(() => {
+    if (!open) return;
+    const closeOnEscape = (event: KeyboardEvent) => {
+      if (event.key !== "Escape") return;
+      event.preventDefault(); setOpen(false); menuButton.current?.focus();
+    };
+    document.addEventListener("keydown", closeOnEscape);
+    return () => document.removeEventListener("keydown", closeOnEscape);
+  }, [open]);
+
+  return (
+    <header className="site-header" data-open={open ? "true" : undefined} data-scrolled={scrolled ? "true" : undefined}>
+      <Link href="/" className="site-header__logo" aria-label="SoccerX Camp — Home" onClick={() => setOpen(false)}>SOCCER<span>X</span>CAMP</Link>
+      <div className="site-header__actions">
+        <a className="site-header__locale" href={`/api/locale?locale=${next}&redirect=${encodeURIComponent(redirect)}`}>{next === "el" ? "GR" : "EN"}</a>
+        <Link className="site-header__apply" href="/apply" onClick={() => setOpen(false)}>{d.apply}</Link>
+        <button ref={menuButton} className="site-header__menu-button" type="button" aria-expanded={open} aria-controls="site-menu" onClick={() => setOpen(value => !value)}>
+          <span>{open ? d.close : d.menu}</span><span aria-hidden="true">{open ? <X /> : <Menu />}</span>
+        </button>
+      </div>
+      <div ref={menu} id="site-menu" className="site-menu" aria-hidden={!open}>
+        <nav aria-label={d.navigationLabel}>
+          {navigation.map(([href, key], index) => <LetterHoverLink key={href} href={href} leadingVisual={<span>0{index + 1}</span>} tabIndex={open ? undefined : -1} aria-current={pathname === href ? "page" : undefined} onClick={() => setOpen(false)}>{d.nav[key]}</LetterHoverLink>)}
+        </nav>
+        <div className="site-menu__foot"><p>SOCCERX CAMP<br />GERMANY ’26</p><p><a href="tel:+306930393091">+30 6930 393091</a><br /><a href="mailto:dp@soccerandmore.org">dp@soccerandmore.org</a></p></div>
+      </div>
+    </header>
+  );
+}
+
+function Footer() {
+  const { dictionary: d } = useLocale();
+  return <footer className="site-footer">
+    <div className="site-footer__brand"><p className="site-footer__logo">SOCCER<span>X</span>CAMP</p><p>{d.footer.statement}</p></div>
+    <div className="site-footer__columns">
+      <nav aria-label={d.footer.navigationLabel}><h2>{d.footer.links}</h2><LetterHoverLink href="/events/germany-2026">{d.nav.event}</LetterHoverLink><LetterHoverLink href="/about">{d.nav.about}</LetterHoverLink><LetterHoverLink href="/success-stories">{d.nav.success}</LetterHoverLink><LetterHoverLink href="/contact">{d.nav.contact}</LetterHoverLink></nav>
+      <address><h2>{d.nav.contact}</h2><div className="site-footer__contact"><LetterHoverLink href="tel:+306930393091">+30 6930 393091</LetterHoverLink><LetterHoverLink href="tel:+4917647324548">+49 176 47324548</LetterHoverLink><LetterHoverLink href="mailto:dp@soccerandmore.org">dp@soccerandmore.org</LetterHoverLink></div></address>
+    </div>
+    <div className="site-footer__bottom"><p>© {new Date().getFullYear()} SoccerX Camp</p><LetterHoverLink className="site-footer__credit" href="https://www.sabaweb.gr" target="_blank" rel="noreferrer">By Saba Web Solutions</LetterHoverLink><LetterHoverLink href="/privacy">{d.nav.privacy}</LetterHoverLink></div>
+  </footer>;
+}
+
+function FooterCurtain({ children }: { children: ReactNode }) {
+  const curtainRef = useRef<HTMLDivElement>(null); const contentRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    const curtain = curtainRef.current; const content = contentRef.current; if (!curtain || !content) return;
+    const updateHeight = () => curtain.style.setProperty("--footer-curtain-height", `${content.scrollHeight}px`);
+    updateHeight(); const observer = new ResizeObserver(updateHeight); observer.observe(content); window.addEventListener("load", updateHeight);
+    return () => { observer.disconnect(); window.removeEventListener("load", updateHeight); };
+  }, []);
+  return <div className="footer-curtain" ref={curtainRef}><div className="footer-curtain__track"><div className="footer-curtain__sticky" ref={contentRef}>{children}</div></div></div>;
+}
+
+export function AppShell({ locale, dictionary, children }: { locale: Locale; dictionary: Dictionary; children: ReactNode }) {
+  return <LocaleProvider locale={locale} dictionary={dictionary}><a className="skip-link" href="#main">{dictionary.skip}</a><Header /><div className="site-surface"><main id="main">{children}</main></div><FooterCurtain><Footer /></FooterCurtain></LocaleProvider>;
+}

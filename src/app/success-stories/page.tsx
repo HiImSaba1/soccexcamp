@@ -1,0 +1,1 @@
+import type{Metadata}from"next";import{CorePage}from"@/components/core/CorePage";export const metadata:Metadata={title:"Success Stories",alternates:{canonical:"/success-stories"}};export default function Page(){return <CorePage page="success"/>}
