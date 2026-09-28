@@ -1,0 +1,13 @@
+{
+  "approvedAt": "2026-09-28",
+  "approvalScope": "public-wxr-media-library",
+  "publicationApproved": true,
+  "approvedTypes": ["image/jpeg", "image/png", "image/webp", "application/pdf"],
+  "approvedCount": 159,
+  "notes": [
+    "Owner approved publication of every image attachment in the WordPress XML.",
+    "Owner explicitly approved the historical Talentbook PDF as a public download.",
+    "The PDF download contains player personal information and is intentionally distributed under the owner's approval.",
+    "Every downloaded response must pass file-signature validation before entering public/."
+  ]
+}

@@ -10,12 +10,12 @@ import { useLocale } from "@/providers/LocaleProvider";
 
 const content = {
   en: [
-    { href: "/success-stories", button: "Explore the experience", eyebrow: "International football trials", title: "Your talent.\nYour next move.", description: "A focused international environment for ambitious footballers.", image: "/media/soccerxcamp/june-2024-match-02.jpg", alt: "Youth footballers competing during a SoccerX Camp match" },
+    { href: "/success-stories", button: "Explore the experience", eyebrow: "International football trials", title: "Your talent.\nYour next move.", description: "A focused international environment for ambitious footballers.", image: "/media/wordpress/499-soccerxcamp.jpg", alt: "SoccerX Camp players and organizers on the football pitch" },
     { href: "/about", button: "Meet SoccerX Camp", eyebrow: "Preparation · Exposure · Opportunity", title: "Built for the\nnext level.", description: "Serious coaching, competitive play and genuine pathways into professional football.", image: "/media/soccerxcamp/june-2024-match-03.jpg", alt: "A competitive football match at SoccerX Camp" },
     { href: "/apply", button: "Application information", eyebrow: "Your journey starts here", title: "Ready for\nyour trial?", description: "Discover the participation process and prepare for your next international opportunity.", image: "/media/soccerxcamp/june-2024-match-05.jpg", alt: "Players in action on the pitch during SoccerX Camp" },
   ],
   el: [
-    { href: "/success-stories", button: "Δες την εμπειρία", eyebrow: "Διεθνή ποδοσφαιρικά trials", title: "Το ταλέντο σου.\nΗ επόμενη κίνηση.", description: "Ένα απαιτητικό διεθνές περιβάλλον για ποδοσφαιριστές με φιλοδοξίες.", image: "/media/soccerxcamp/june-2024-match-02.jpg", alt: "Νεαροί ποδοσφαιριστές αγωνίζονται σε παιχνίδι του SoccerX Camp" },
+    { href: "/success-stories", button: "Δες την εμπειρία", eyebrow: "Διεθνή ποδοσφαιρικά trials", title: "Το ταλέντο σου.\nΗ επόμενη κίνηση.", description: "Ένα απαιτητικό διεθνές περιβάλλον για ποδοσφαιριστές με φιλοδοξίες.", image: "/media/wordpress/499-soccerxcamp.jpg", alt: "Παίκτες και διοργανωτές του SoccerX Camp στο γήπεδο" },
     { href: "/about", button: "Γνώρισε το SoccerX Camp", eyebrow: "Προετοιμασία · Προβολή · Ευκαιρία", title: "Χτισμένο για\nτο επόμενο επίπεδο.", description: "Σοβαρή προπόνηση, ανταγωνιστικό παιχνίδι και πραγματικές διαδρομές προς το επαγγελματικό ποδόσφαιρο.", image: "/media/soccerxcamp/june-2024-match-03.jpg", alt: "Ανταγωνιστικός αγώνας ποδοσφαίρου στο SoccerX Camp" },
     { href: "/apply", button: "Πληροφορίες συμμετοχής", eyebrow: "Η διαδρομή σου ξεκινά εδώ", title: "Έτοιμος για\nτο trial σου;", description: "Δες τη διαδικασία συμμετοχής και προετοιμάσου για την επόμενη διεθνή ευκαιρία.", image: "/media/soccerxcamp/june-2024-match-05.jpg", alt: "Παίκτες σε αγωνιστική δράση στο SoccerX Camp" },
   ],

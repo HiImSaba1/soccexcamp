@@ -1,5 +1,6 @@
 "use client";
 
+import { Download } from "lucide-react";
 import { ParallaxImage } from "@/components/motion/ParallaxImage";
 import { SplitReveal } from "@/components/motion/SplitReveal";
 import { useLocale } from "@/providers/LocaleProvider";
@@ -11,7 +12,7 @@ export function TalentbookPage() {
     <header className="core-hero"><p>{el ? "Αρχείο παικτών" : "Player archive"}</p><SplitReveal className="core-title">Talentbook</SplitReveal><p className="core-intro">{el ? "Ιστορικές εκδόσεις του SoccerX Camp, με προστασία των προσωπικών δεδομένων των παικτών." : "Historical SoccerX Camp publications with player privacy built into the archive."}</p></header>
     <section className="talentbook-feature">
       <ParallaxImage src="/media/soccerxcamp/talentbook-2023-cover.png" alt={el ? "Εξώφυλλο του Soccer and More U23 Talentbook" : "Cover of the Soccer and More U23 Talentbook"} sizes="(max-width: 760px) 88vw, 34vw" speed={6} />
-      <div><p>2023 / {el ? "Ιστορική έκδοση" : "Historical edition"}</p><h2>U23 Talentbook</h2><p>{el ? "Το εξώφυλλο διατηρείται ως μέρος του αρχείου. Το αρχικό PDF δεν διατίθεται δημόσια, επειδή περιλαμβάνει ημερομηνίες γέννησης, στοιχεία επικοινωνίας και άλλα προσωπικά δεδομένα παικτών." : "The cover is retained as part of the historical archive. The original PDF is not publicly available because it includes player birth dates, contact details and other personal information."}</p><p>{el ? "Οι επόμενες εκδόσεις θα χρησιμοποιούν ελεγχόμενα, προσβάσιμα web profiles με σαφή συγκατάθεση." : "Future editions will use reviewed, accessible web profiles with explicit consent."}</p></div>
+      <div><p>2023 / {el ? "Ιστορική έκδοση" : "Historical edition"}</p><h2>U23 Talentbook</h2><p>{el ? "Η ιστορική έκδοση είναι διαθέσιμη ως αρχείο PDF για λήψη. Περιλαμβάνει αναλυτικά προφίλ παικτών και προορίζεται για ενημερωτική χρήση." : "The historical edition is available as a downloadable PDF. It contains detailed player profiles and is provided for informational use."}</p><p>{el ? "Με τη λήψη, το αρχείο αποθηκεύεται στη συσκευή σας αντί να ανοίγει μέσα στη σελίδα." : "The download saves the publication to your device instead of opening it inside the page."}</p><a className="talentbook-download" href="/media/wordpress/1257-Talentebuch-final.pdf" download="SoccerXCamp-U23-Talentbook-2023.pdf"><span>{el ? "Λήψη Talentbook PDF" : "Download Talentbook PDF"}</span><Download aria-hidden="true" /></a></div>
     </section>
   </article>;
 }

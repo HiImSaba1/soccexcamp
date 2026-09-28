@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { gsap, SplitText } from "@/lib/motion/gsap";
 import { usePageTransition } from "@/providers/PageTransitionProvider";
 
-const excludedOwner = ".home-hero, .site-menu, .site-footer, .page-transition-curtain, [data-no-global-reveal]";
+const excludedOwner = ".home-hero, .home-testimonials, .site-menu, .site-footer, .page-transition-curtain, [data-no-global-reveal]";
 function eligible(element: Element): element is HTMLElement { return element instanceof HTMLElement && !element.closest(excludedOwner); }
 
 export function GlobalRevealChoreography() {

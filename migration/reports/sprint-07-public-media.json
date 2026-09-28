@@ -1,0 +1,1600 @@
+﻿{
+    "generatedAt":  "2026-09-28T09:33:43.8965634Z",
+    "approvalScope":  "public-wxr-media-library",
+    "publicationApproved":  true,
+    "requested":  159,
+    "published":  159,
+    "failed":  0,
+    "items":  [
+                  {
+                      "wordpressId":  30,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/photo-1468390090990-afe21a9448f0.jpeg",
+                      "publicPath":  "public/media/wordpress/30-photo-1468390090990-afe21a9448f0.jpeg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  1805952,
+                      "sha256":  "1A356B31B67E30F0C040AB6CE9C729656404C16731B6C3A8F5E5186998F3F148",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  70,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_camp_section_2.jpg",
+                      "publicPath":  "public/media/wordpress/70-soccer_camp_section_2-scaled.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  539726,
+                      "sha256":  "46345875DFE67DBC01263F008E5766C0832F5947753A26DC8F6EA6EFDF1101FB",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  71,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/kids_playing_2.jpg",
+                      "publicPath":  "public/media/wordpress/71-kids_playing_2-scaled.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  743511,
+                      "sha256":  "7A64EB798B4A00D3FCAA9CF767BFDC3F60E75C856EDA7E193C581455BA77DAD6",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  72,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/kids_playing.jpg",
+                      "publicPath":  "public/media/wordpress/72-kids_playing-scaled.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  1184254,
+                      "sha256":  "A816B033D49FE8A94EFDD91614FBE6482FCFBABFE767BBABF276E697A480CB7D",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  78,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_intro.jpg",
+                      "publicPath":  "public/media/wordpress/78-soccer_x_camp_intro.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  203477,
+                      "sha256":  "9CD75F828BB8C6C2BEB4D9F47763FEB854E58E1A518B235F8ADA1A8731A1E4B7",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  81,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/photo-1523303821445-f2983744a23e.jpg",
+                      "publicPath":  "public/media/wordpress/81-photo-1523303821445-f2983744a23e.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  418435,
+                      "sha256":  "F00F54E7C4385FB4E7CA471CB88CAAD136DEE271841921B5A7E9D16DF04076AE",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  88,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/greg-kantra-333822-unsplash.jpg",
+                      "publicPath":  "public/media/wordpress/88-greg-kantra-333822-unsplash.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  242713,
+                      "sha256":  "4EC450593EC5FB27F7B66A950C1B41E75ED85658948086B123DC444E9997D3CA",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  90,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/zz-teammember2.jpg",
+                      "publicPath":  "public/media/wordpress/90-zz-teammember2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  201302,
+                      "sha256":  "DF740C117BFA062A524AF89594A2ACDAA28E4652C186499A5E1D08CF5C170CB4",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  91,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/zz-teammember3.jpg",
+                      "publicPath":  "public/media/wordpress/91-zz-teammember3.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  294668,
+                      "sha256":  "DD5D27A1E1F498C380E8B889F4DB4CF8FD4558698CC10D75AD367BA59DE3A1C7",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  115,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/0-02-05-fd6cdaf86262c16f96b53512e6dff934fb07b5e54c65ef06b865c313e35b08ea_fab259442314320b.png",
+                      "publicPath":  "public/media/wordpress/115-0-02-05-fd6cdaf86262c16f96b53512e6dff934fb07b5e54c65ef06b865c313e35b08ea_fab259442314320b.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  65639,
+                      "sha256":  "A0949391D3ADD9670C1C121A5330116A1CAEB56966FDE3E737BE23E33CBEC0B5",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  117,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/1-noise-texture.png",
+                      "publicPath":  "public/media/wordpress/117-1-noise-texture.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  584626,
+                      "sha256":  "C8AACF3AF0E5ABA2148E1A0E8F3C469C115E3A210F6E44360F7250772EA4C673",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  123,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/paok_deliopoulos_petkakis.jpg",
+                      "publicPath":  "public/media/wordpress/123-paok_deliopoulos_petkakis.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  79999,
+                      "sha256":  "45D74A9360F1333870BD5D54395181A7470EA1F4BD6D7E12F9556271678EAD9A",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  124,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/maragozidis_petkakis.jpg",
+                      "publicPath":  "public/media/wordpress/124-maragozidis_petkakis.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  182674,
+                      "sha256":  "F83AE8FEAD4CBD5107A4991A2F22B2D5ED0F779D88EA18ED9C54E834148E9AB4",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  141,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/image.png",
+                      "publicPath":  "public/media/wordpress/141-image.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  7002,
+                      "sha256":  "211B9D60515962814D713B192A95ACAB2DB6C3A219B45D337F749A6E8469B152",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  142,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/logo36w.png",
+                      "publicPath":  "public/media/wordpress/142-logo36w.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  10957,
+                      "sha256":  "F86A0BBC483952B65C6AD72CCF5F3E904A5F4BFECF94D1FD909155E4485A4F6B",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  154,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/pattern1.jpg",
+                      "publicPath":  "public/media/wordpress/154-pattern1.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  260842,
+                      "sha256":  "70024DE04AA3B1C52E99BE57A7987D60CB03D3D415E1E9425D717ABB1328116F",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  161,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_logo_ok.png",
+                      "publicPath":  "public/media/wordpress/161-soccer_x_camp_logo_ok.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  197125,
+                      "sha256":  "2607BF1EB8E377CFBF4064E1BA4AFEC63CE8B3BF4AD3048086ADBC65B4976AF3",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  172,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/sabaweb_logo.png",
+                      "publicPath":  "public/media/wordpress/172-sabaweb_logo.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  37443,
+                      "sha256":  "01887DE2E01EA99BC97C70720A58960034758C0799A2E9504321832709B09733",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  173,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/Logo-Golden-Cup.png",
+                      "publicPath":  "public/media/wordpress/173-Logo-Golden-Cup.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  21306,
+                      "sha256":  "4D84338112C53DC1429979935CA62E863740B3576E949249C2C869CC3ED03F26",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  174,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/1-acadimies.png",
+                      "publicPath":  "public/media/wordpress/174-1-acadimies.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  14890,
+                      "sha256":  "BB57CC8615399823EBC5B9B35976AD1C88D267FA28F95F20179048F58FD4104B",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  175,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/hsu_300.png",
+                      "publicPath":  "public/media/wordpress/175-hsu_300.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  27235,
+                      "sha256":  "F19B178E4506FEBF35FF26808A3354FC82B6723069760F2E92CFDCCF8FAAEB1A",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  176,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/2-removebg-preview.png",
+                      "publicPath":  "public/media/wordpress/176-2-removebg-preview-e1710249279652.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  83774,
+                      "sha256":  "A3311A8D812D0023B6F4A7FD527891E0E6DB017E0A2F42B2456C126909E20854",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  183,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/brunel-johnson-3686289-unsplash.jpg",
+                      "publicPath":  "public/media/wordpress/183-brunel-johnson-3686289-unsplash.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  25586,
+                      "sha256":  "2E8543489B10FF62F216ADCB31F51C41A28ADCA5DE39A6E7250A6799C9E5FAA5",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  195,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/maragozidis_tasos.jpg",
+                      "publicPath":  "public/media/wordpress/195-maragozidis_tasos.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  36994,
+                      "sha256":  "F0820A04CFB221432447B7FF6BA940F162D1EA252100E77BCC3B10F5BAAFF7BB",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  197,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/dimitris_petkakis.jpg",
+                      "publicPath":  "public/media/wordpress/197-dimitris_petkakis.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  49221,
+                      "sha256":  "3DBC4FE4BD21021108D540B309BBD50B27DA26363E00115ED416B3C4EE0E5E49",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  198,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/dora_ioakeimidou.jpg",
+                      "publicPath":  "public/media/wordpress/198-dora_ioakeimidou.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  19294,
+                      "sha256":  "8BE4CEDD3ED39C20D79AF75656064D11F76E7EBB3B67C054EFD6015D2155E845",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  207,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/group_photo.jpg",
+                      "publicPath":  "public/media/wordpress/207-group_photo.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  239673,
+                      "sha256":  "4BC0A7A01E4250F95D97DABA5424F2BCB68581D516B8C00FECA6AF8E43BEC31D",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  208,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/camp_photo_1.jpg",
+                      "publicPath":  "public/media/wordpress/208-camp_photo_1.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  665301,
+                      "sha256":  "C816212E022E5E6F5BEF890ACD3DC7D10A9070B7DBA9E95C0C2CC8C3A8E969E0",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  212,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/be_a_part.jpg",
+                      "publicPath":  "public/media/wordpress/212-be_a_part.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  963167,
+                      "sha256":  "88878097D4CE972EB1B05A67B4054973D9E63DF4F7B58D7F11152E40100B5494",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  213,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/coaching_soccer_x_camp.jpg",
+                      "publicPath":  "public/media/wordpress/213-coaching_soccer_x_camp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  518189,
+                      "sha256":  "6835E7107AF2AC907CDFBF0D8BD8E4C7533299CCE0355505708958A58878407D",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  239,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_signing_6.jpg",
+                      "publicPath":  "public/media/wordpress/239-soccer_x_camp_signing_6.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  195261,
+                      "sha256":  "32B698D471E87ECDB4B4DF0ED60149D89D529EC46FCE151D18579E2375D3C2CE",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  240,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_signing_7.jpg",
+                      "publicPath":  "public/media/wordpress/240-soccer_x_camp_signing_7.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  212698,
+                      "sha256":  "82CF5C973516CDFDE546DC3777CE1077B3CC57EC9FFF0F3B7D3141E5D4743FAA",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  241,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_signing_8.jpg",
+                      "publicPath":  "public/media/wordpress/241-soccer_x_camp_signing_8.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  177139,
+                      "sha256":  "A7B58A0F460D0B7BDB2EED678AACA10CDBA4217B6DBB593EFB328929A4544E2A",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  242,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_signing.jpg",
+                      "publicPath":  "public/media/wordpress/242-soccer_x_camp_signing.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  254709,
+                      "sha256":  "B3F0C5DA719F21732A428B4DC9154377B507A5AEAF378D3B20BA1BEA1E0DE180",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  243,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_like.jpg",
+                      "publicPath":  "public/media/wordpress/243-soccer_x_camp_like.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  242911,
+                      "sha256":  "1F0D9D0076469704F20187DE2C0F1643A0CDC6EC13A727B4F05C0C3B5A872517",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  244,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_signing_2.jpg",
+                      "publicPath":  "public/media/wordpress/244-soccer_x_camp_signing_2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  146757,
+                      "sha256":  "E04E1F67794CF44ED23A27DF3020958E25B579B0A83D88AF20C2471EB3FD9055",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  245,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_signing_3.jpg",
+                      "publicPath":  "public/media/wordpress/245-soccer_x_camp_signing_3.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  134559,
+                      "sha256":  "C948FB9A5946A4DB14C2FE127512479E4CE429144D287204C0B5E9643D01694B",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  246,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_signing_4.jpg",
+                      "publicPath":  "public/media/wordpress/246-soccer_x_camp_signing_4.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  151509,
+                      "sha256":  "8E1829C7C97C3DF989B70ADE0F4FBB122DE86AD15FB8B8B423A6B6800D75BE3B",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  247,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_like_2.jpg",
+                      "publicPath":  "public/media/wordpress/247-soccer_x_camp_like_2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  109134,
+                      "sha256":  "C91B8CCC7B77337B33B5900C51C01BE1014C5C5EE060E85244D50B28AA94E41E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  248,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_signing_5.jpg",
+                      "publicPath":  "public/media/wordpress/248-soccer_x_camp_signing_5.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  101310,
+                      "sha256":  "6E373D1F791C4435CEF57E0D4A030E2BBB1AB712A68B43C203D04C5A3155EDA8",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  257,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/LOGO-1.png",
+                      "publicPath":  "public/media/wordpress/257-LOGO-1.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  23819,
+                      "sha256":  "79C4EC09B8A47CF5F51402A4EC8219BA248E6478685AA62C150FC6FCD6042CAA",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  307,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp24.jpg",
+                      "publicPath":  "public/media/wordpress/307-soccerxcamp24.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  135073,
+                      "sha256":  "D72C1E37FEDB37D78E8DDC77FE86A94ADDC2B10B7CD744D599B1D5C3FE82658E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  312,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/quotes-01.png",
+                      "publicPath":  "public/media/wordpress/312-quotes-01.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  7480,
+                      "sha256":  "84D89720ECD3987622B326A17F609E9AF4D7247FB5ECCB294094EDC87EEC7BDA",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  320,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/pantelidis_soccer_center.jpg",
+                      "publicPath":  "public/media/wordpress/320-pantelidis_soccer_center.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  71257,
+                      "sha256":  "1D29F9C9D2CA5D488153E2156C84420CB7D177142294AA76887F63268D39F3E6",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  321,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/hotel_pantelidis.jpg",
+                      "publicPath":  "public/media/wordpress/321-hotel_pantelidis.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  86498,
+                      "sha256":  "63C4CB9B7BFC450AD8BC949F73A4CE7EED77C67001D72B30559328866DC2556A",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  326,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/dora_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/326-dora_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  30226,
+                      "sha256":  "430B1EE4D2CA219B2C0374093A571A24384C29AE59F9F88B46DBF5F06BF36975",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  402,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_and_more.jpg",
+                      "publicPath":  "public/media/wordpress/402-soccer_and_more.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  8048,
+                      "sha256":  "0CD2EAA154957FF68CA49DABD621F7298E91F9987B96907DA4D666A99F814461",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  499,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/499-soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  78977,
+                      "sha256":  "3DE42C0E41C187A15A4CCFAE335CD63BDE782B6CA4D1DF6DAD9A63A490CBDAE6",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  606,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x-camp-section-1.jpg",
+                      "publicPath":  "public/media/wordpress/606-soccer_x-camp-section-1-scaled.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  513884,
+                      "sha256":  "D9431F25CD5C3960157C9392317595DEEA460402DCCFA94243284E8906D89B9F",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  611,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/flanagan-profile.jpg",
+                      "publicPath":  "public/media/wordpress/611-flanagan-profile.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  208626,
+                      "sha256":  "0974684D379FE0F0CF8B1225F4DB37EFB4F29053659B574A68900D63C4F8B8C4",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  623,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/petkakis_2.jpg",
+                      "publicPath":  "public/media/wordpress/623-petkakis_2-e1710857927334.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  188607,
+                      "sha256":  "69E0F5B1D287FC12F8DEE5CFB019DDDBF4721F19B78C305C327C861D5DDD0DBC",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  629,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp-logo.png",
+                      "publicPath":  "public/media/wordpress/629-soccerxcamp-logo.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  65639,
+                      "sha256":  "A0949391D3ADD9670C1C121A5330116A1CAEB56966FDE3E737BE23E33CBEC0B5",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  804,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_maragkozidis.jpg",
+                      "publicPath":  "public/media/wordpress/804-soccer_x_camp_maragkozidis-e1710930915390.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  151509,
+                      "sha256":  "8E1829C7C97C3DF989B70ADE0F4FBB122DE86AD15FB8B8B423A6B6800D75BE3B",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  830,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccer_x_camp_banner.jpg",
+                      "publicPath":  "public/media/wordpress/830-soccer_x_camp_banner.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  456050,
+                      "sha256":  "0EA034898598A4820A0D71BAB8C466501149C25F71491E35E7E1752955EDAE9D",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  834,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_vandurf.jpg",
+                      "publicPath":  "public/media/wordpress/834-soccerxcamp_vandurf.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  723222,
+                      "sha256":  "77C06182DB52F98869615E1A5A124EA36A7F56EDFD03371FB41ED5909C9905EF",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  855,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/pexels-photo-220453.jpeg",
+                      "publicPath":  "public/media/wordpress/855-pexels-photo-220453.jpeg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  74016,
+                      "sha256":  "EB01F958A2065244CCA774BA66218BEDF3C80E14AA89B95C62097A9015EB48A3",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  856,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/pexels-photo-556068.jpeg",
+                      "publicPath":  "public/media/wordpress/856-pexels-photo-556068.jpeg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  80614,
+                      "sha256":  "32125CE0C1B5EFE3F89D3CDE06974FB84586C05AB883B421DBC405EF94F1D0CA",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  857,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/pexels-photo-774909.jpeg",
+                      "publicPath":  "public/media/wordpress/857-pexels-photo-774909.jpeg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  119287,
+                      "sha256":  "C89D3B6C2FA6A9AD51FAADFC5E60D7B6426E90DEBADB236039B991143BCF90DE",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1040,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/joel_damahou_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1040-joel_damahou_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  231174,
+                      "sha256":  "BD63A2160EF9CB10CD73878F291902994AB8CCAF356176219714A42CEC7AE9F3",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1041,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/joel_damahou_soccerxcamp_profile.jpg",
+                      "publicPath":  "public/media/wordpress/1041-joel_damahou_soccerxcamp_profile.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  121132,
+                      "sha256":  "124EDB22E93311B8F3968CEB923CA8FA26493200538BAA93F340CF741CD5AC21",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1185,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/pexels-photo-250400.jpeg",
+                      "publicPath":  "public/media/wordpress/1185-pexels-photo-250400.jpeg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  371860,
+                      "sha256":  "B0881D5E0BF35CEC04BFE318F72078E893B6133FD76B17A31F1D8C8DAB1EE9A0",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1257,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/Talentebuch-final.pdf",
+                      "publicPath":  "public/media/wordpress/1257-Talentebuch-final.pdf",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "application/pdf",
+                      "bytes":  5555435,
+                      "sha256":  "EDF66B6A2C07D663FC45A969FDCE171A74DF68D6809ECF94CD0B7468EDB36A49",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1513,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_talentbook.png",
+                      "publicPath":  "public/media/wordpress/1513-soccerxcamp_talentbook.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  274009,
+                      "sha256":  "DB08D40E4BAD600A3A4289D9EF0351866084B29EB607EC93CEC5FF80AD5F511E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1538,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/aristadis_soccerx_camp.jpg",
+                      "publicPath":  "public/media/wordpress/1538-aristadis_soccerx_camp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  118852,
+                      "sha256":  "8ACED13F6B290DB30EC8C8732AD18289C46BD4B664AC2CAC1EE6A1D281A0C7AA",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1539,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/zannakis_hoffenheim.jpg",
+                      "publicPath":  "public/media/wordpress/1539-zannakis_hoffenheim.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  149558,
+                      "sha256":  "9E203AAB025EA82A832D47C7C78DD6A5C94B2B494D36982E0FBD8A068E283755",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1540,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/zannakis_hoffenheim_maragozidis.jpg",
+                      "publicPath":  "public/media/wordpress/1540-zannakis_hoffenheim_maragozidis.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  166074,
+                      "sha256":  "E70D124A7C85134853863A147F9DB1D22EA0AC02111278E54972B704B7DBC7A1",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1544,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/aristadis_soccerx_camp_petkakis_maragozidis.jpg",
+                      "publicPath":  "public/media/wordpress/1544-aristadis_soccerx_camp_petkakis_maragozidis.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  167079,
+                      "sha256":  "CB5AF89EDB849C82CC425567613001518B97C45EEADFFD72278812B1E5F81BD0",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1546,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/stefan_shwab_paok_maragozidis_soccerxcamp.png",
+                      "publicPath":  "public/media/wordpress/1546-stefan_shwab_paok_maragozidis_soccerxcamp.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  229035,
+                      "sha256":  "86FA816C234284B29EDBFD8CF78FA56EC24C58D15CD724BE07EF46B67C30C436",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1547,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/giannouis_maragozidis.png",
+                      "publicPath":  "public/media/wordpress/1547-giannouis_maragozidis.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  193182,
+                      "sha256":  "C9F85B597F247823682D1B1872E05FA083D0F5A26C5D1D0756584A901A9C6084",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1575,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-0aaa4db1d5633e30d24ea0c0262f8d90-V.jpg",
+                      "publicPath":  "public/media/wordpress/1575-IMG-0aaa4db1d5633e30d24ea0c0262f8d90-V.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  154615,
+                      "sha256":  "BD7EA6D4F418A54F607E43CC4460A072F938E2218F8A8B27FA3B7DA079A6F332",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1576,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-0d0d6ed6847c0214cbd5c37055790be5-V.jpg",
+                      "publicPath":  "public/media/wordpress/1576-IMG-0d0d6ed6847c0214cbd5c37055790be5-V.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  230514,
+                      "sha256":  "09438A1D75F49039AD98E6AB2DB7B8F5DB161F4B308FBC9539E580CD667CC4E6",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1577,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-4fd589185b0e3e77fdd40c6aa9f6c79e-V.jpg",
+                      "publicPath":  "public/media/wordpress/1577-IMG-4fd589185b0e3e77fdd40c6aa9f6c79e-V.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  130017,
+                      "sha256":  "8ED15717325E6A9DFE923ACBCCE9475CFA0F22AC2A69FC0D7519F677D080AD93",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1578,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-20e3a5a64764f02f688886293708c1d7-V.jpg",
+                      "publicPath":  "public/media/wordpress/1578-IMG-20e3a5a64764f02f688886293708c1d7-V.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  223638,
+                      "sha256":  "FF023CC95D87BB102864021A2F20565A4EB4A5E13CEFD619763AA06484305634",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1579,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-14428ea8c24a10451324eec0233c49ec-V.jpg",
+                      "publicPath":  "public/media/wordpress/1579-IMG-14428ea8c24a10451324eec0233c49ec-V.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  222862,
+                      "sha256":  "8D8E50A602245615F9C876B0DE04E0A3700B76077A8D19E22404175DDE45ED44",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1580,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-c76a661f8cd80efba6ea5b59af5bb227-V.jpg",
+                      "publicPath":  "public/media/wordpress/1580-IMG-c76a661f8cd80efba6ea5b59af5bb227-V.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  230034,
+                      "sha256":  "3624C266FA970B69AFAB7FCF796C9A2E8D06DA54C9E0415ABAF5D14104298D96",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1581,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/IMG-e99d222baa394266640ae8e37f72874a-V.jpg",
+                      "publicPath":  "public/media/wordpress/1581-IMG-e99d222baa394266640ae8e37f72874a-V.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  249722,
+                      "sha256":  "5368E777DB7939883C1CF4EB331601714BD38E7B1C04F07EDBBB52B0D1A6A0C3",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1653,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/guido_nikolay.jpg",
+                      "publicPath":  "public/media/wordpress/1653-guido_nikolay.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  222882,
+                      "sha256":  "1B89E0DC89F134EA005543574C036A7ECB66404EDA85AA14A74EAE74B3094434",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1657,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/tasos_petkakis_coach.jpg",
+                      "publicPath":  "public/media/wordpress/1657-tasos_petkakis_coach.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  253303,
+                      "sha256":  "28607DEA8B174642C906C0DCEA913DBDE7027AD0E13B615BC24DC7813CF8E240",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1658,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_group_2023_camp.jpg",
+                      "publicPath":  "public/media/wordpress/1658-soccerxcamp_group_2023_camp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  98476,
+                      "sha256":  "FA43DBE7204B73FEAF89A3B52D8F2B498526AAE99ADF4B3425473FE1C256324E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1659,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_group_2023.jpg",
+                      "publicPath":  "public/media/wordpress/1659-soccerxcamp_group_2023.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  252536,
+                      "sha256":  "28E7AB8B01819691CE7262DC63735F9EB93B2BD7FE7FFAD0F5D10473698F92EB",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1660,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/coach_with_camp_kids.jpg",
+                      "publicPath":  "public/media/wordpress/1660-coach_with_camp_kids.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  143386,
+                      "sha256":  "6B90211A575E1BB03B349AD8CDB6DA8557B567B2CF0F30C5682DE2A84CA9FED7",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1661,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_corner_photo.jpg",
+                      "publicPath":  "public/media/wordpress/1661-soccerxcamp_corner_photo.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  251871,
+                      "sha256":  "7C6D350A12A2FC18F355B52903DE0EC5EEE2C8C118FBB739B99F5E746BD290ED",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1915,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/per_mertesacker_cup_golden.jpg",
+                      "publicPath":  "public/media/wordpress/1915-per_mertesacker_cup_golden.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  255776,
+                      "sha256":  "5A00BE4EDED32492ACBCB820444375E05C4437A8ECBDBA671D3F5953040905D8",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1920,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/schwab_petkakis.jpg",
+                      "publicPath":  "public/media/wordpress/1920-schwab_petkakis.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  185631,
+                      "sha256":  "04C72701F3F73D3EB142744148BE16C8E4FE9C9A40425FAAEBBDDD5BFC3F9FD0",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1928,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/tasos_guido.jpg",
+                      "publicPath":  "public/media/wordpress/1928-tasos_guido.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  219080,
+                      "sha256":  "DBA72D9548E4C2C6AB9DEB73DA94B0E7208849C7FE57D8D1B91AE15F6515AEB8",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1930,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team9_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1930-team9_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  500257,
+                      "sha256":  "5D58E5648C51D3D74EF901B3EE938D02B22225C5FCD8AB5AD7AF0B7997D20ACB",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1931,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team8_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1931-team8_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  457152,
+                      "sha256":  "262B712E2CEA026074F5B56C7BCD7DFCECD6ACC601DCD808263E9F57AF894EDF",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1932,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team7_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1932-team7_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  589107,
+                      "sha256":  "3A9B1ECA279DB4F32878F324ABDCA453502BCF0B11DC52DF0043230C229CBC29",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1933,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team6_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1933-team6_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  507865,
+                      "sha256":  "EEE89D856702304104BF720B2FF1468951304A96D98DC6E9E45D2B178477956E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1934,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team5_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1934-team5_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  369987,
+                      "sha256":  "EA47DD642CB039ECC9DB21152F60C0999CA208BC3F5DB3C667FE7F13C4DFF388",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1935,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team4_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1935-team4_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  427667,
+                      "sha256":  "048966BE8BCFF25F77C2E9E5D888E502B484BAAF42C034C16DFB2BF9237340BF",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1936,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team3_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1936-team3_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  411842,
+                      "sha256":  "C4C12597BF8840C0EE91D1539047454E37A10BAC4DCD5CB8B12ACF13FDEBC0BC",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1937,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team2_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1937-team2_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  419340,
+                      "sha256":  "A4AB1959576A8482B35AD0F517232D23D0807532FB45E7578125243EC8A3A7A6",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1938,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1938-team_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  470692,
+                      "sha256":  "88781C61A4D56D446E5EE13A9C17C5622A8497128933F808BDC1FC893D723A8B",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1940,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team10_photo_soccerxcamp.jpg",
+                      "publicPath":  "public/media/wordpress/1940-team10_photo_soccerxcamp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  169619,
+                      "sha256":  "7117B930E8F287345730D2D63E8152C6F1B218C2C9F29318DB3827F374124B20",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1962,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/ivo_rogalo.jpg",
+                      "publicPath":  "public/media/wordpress/1962-ivo_rogalo.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  136001,
+                      "sha256":  "2817D89F389126DC9E83119B21683DB11F3D9250AED39743944E8FF5BA2964A9",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1973,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/gregory_knoff.jpg",
+                      "publicPath":  "public/media/wordpress/1973-gregory_knoff.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  152421,
+                      "sha256":  "B8209FBEE17C64B59EB625B6C393C62C7ACECBA22084C9F9F2C1193D2E9D00B8",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1978,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/petkakis_coach.jpg",
+                      "publicPath":  "public/media/wordpress/1978-petkakis_coach.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  113893,
+                      "sha256":  "221010EBEC6EBDB562CC94EC49E61F2E34FC681B9D1154ECAF69FD9CC2333963",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1982,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team_photo_9.jpg",
+                      "publicPath":  "public/media/wordpress/1982-team_photo_9.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  174929,
+                      "sha256":  "614C53FA097A99EA2B3148697F69283B6DECAC1CF15703D214482DD99FDDB07A",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1984,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/tasos_guido_ok.jpg",
+                      "publicPath":  "public/media/wordpress/1984-tasos_guido_ok.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  136166,
+                      "sha256":  "336B332507841202D00B872436E049023241295586A434C79A50AE9974D31441",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1985,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/team8_photo_group_ivo.jpg",
+                      "publicPath":  "public/media/wordpress/1985-team8_photo_group_ivo.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  175686,
+                      "sha256":  "4DDDD5F2AE0F7E1F891D599297D9917B9928EA332FB285FD3385F07725CE87FE",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  1999,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_kids.jpg",
+                      "publicPath":  "public/media/wordpress/1999-soccerxcamp_kids.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  167552,
+                      "sha256":  "E743F972D76BE2FC116CEB57F36900EAAE3E50D07D9BC61C8E680DD5DAF26605",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2000,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_team2.jpg",
+                      "publicPath":  "public/media/wordpress/2000-soccerxcamp_team2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  157874,
+                      "sha256":  "3B136FE25BC7E63126BFBEE3D8C3291117EB1D63710E897D9F869495C2F85B8B",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2001,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_team_2.jpg",
+                      "publicPath":  "public/media/wordpress/2001-soccerxcamp_team_2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  161383,
+                      "sha256":  "65780FA315F4C71D00A0D4C7B954F993C76299AF6677AB8E230AC715881E7C5E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2002,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_team_photo.jpg",
+                      "publicPath":  "public/media/wordpress/2002-soccerxcamp_team_photo.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  161393,
+                      "sha256":  "2E011C193C36F1BA436AD712A53621F5C815C0940805B02ED7523F9AE0B24610",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2003,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_organization_team.jpg",
+                      "publicPath":  "public/media/wordpress/2003-soccerxcamp_organization_team.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  134152,
+                      "sha256":  "E116DD9E0E37FC26D476BF013188EDF3070A2C9059755ED6123B21723EE5114E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2004,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_with_gregory_knoff.jpg",
+                      "publicPath":  "public/media/wordpress/2004-soccerxcamp_with_gregory_knoff.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  97308,
+                      "sha256":  "C7E29FD5FAEB7993BADCDB85E06153CDBC6835C3BA7848F0CECBF4F665D2F24E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2005,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/tasos_petkakis_scouters_soccerxcamp_fifa.jpg",
+                      "publicPath":  "public/media/wordpress/2005-tasos_petkakis_scouters_soccerxcamp_fifa.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  123832,
+                      "sha256":  "F94E505900B0F19D060734D80AB8AAE415789BABF0985F87CBFB44DE3DB1487B",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2006,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/03/soccerxcamp_tasos_maragozidis_camp.jpg",
+                      "publicPath":  "public/media/wordpress/2006-soccerxcamp_tasos_maragozidis_camp.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  165720,
+                      "sha256":  "9AFB85F78A36A410D598E41F146A8D0CA4F59A849AC0CE0F614EF1A16204C84A",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2136,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/04/soccerxcamp_24.jpg",
+                      "publicPath":  "public/media/wordpress/2136-soccerxcamp_24.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  415314,
+                      "sha256":  "9D8640E819B3B54C998FE273B285C92105120BEA50D6B0A2A69837653CACCF34",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2140,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/04/GHPEDO-RAIDESTOS.webp",
+                      "publicPath":  "public/media/wordpress/2140-GHPEDO-RAIDESTOS.webp",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/webp",
+                      "bytes":  45238,
+                      "sha256":  "D325BBE25A2C74208CCC6AA2B1C5E7509E1707BA8D1DE5688BD9855027795A01",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2296,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_4.jpg",
+                      "publicPath":  "public/media/wordpress/2296-soccerxcamp_players_scouters_4.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  70123,
+                      "sha256":  "A49956D727C4A4424B7714B25DEB9F946A05455209E8BAA5772561ACAC9D32BB",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2297,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_5.jpg",
+                      "publicPath":  "public/media/wordpress/2297-soccerxcamp_players_5.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  64128,
+                      "sha256":  "A6B945B3E33834CCD4D314690F152226FA7CFCF30216C60094E625C09978F2E1",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2298,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_7.jpg",
+                      "publicPath":  "public/media/wordpress/2298-soccerxcamp_players_7.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  44213,
+                      "sha256":  "24838BD8614CD80A961A17B2E09BCAAE915B0B9886110851F1D22F035AC0A76E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2299,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_13.jpg",
+                      "publicPath":  "public/media/wordpress/2299-soccerxcamp_players_13.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  59980,
+                      "sha256":  "CED5164198F69C6EC4A7E73EE17231F5A620D6956955479FAC5979B8BB3533ED",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2300,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_2.jpg",
+                      "publicPath":  "public/media/wordpress/2300-soccerxcamp_players_scouters_2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  80806,
+                      "sha256":  "D0034AB03FD7D8A6D9425206E12D78CB38D06521940000D2AE9A743580A00928",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2301,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_trainers_scouters_5.jpg",
+                      "publicPath":  "public/media/wordpress/2301-soccerxcamp_trainers_scouters_5.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  72628,
+                      "sha256":  "985AB9C354D9742BEAAAF346CD2C78D226B72582A271B96EC48DEED04E498D16",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2302,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_3.jpg",
+                      "publicPath":  "public/media/wordpress/2302-soccerxcamp_players_scouters_3.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  150454,
+                      "sha256":  "77D4DBAFEB63A083DE787B78384E593EF380B7A339544DC88317DF2BABD0ADED",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2303,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_9.jpg",
+                      "publicPath":  "public/media/wordpress/2303-soccerxcamp_players_scouters_9.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  75953,
+                      "sha256":  "015BFE0E1B54764775D13732897B5ABD4BF473FAA92063F1A8A7332408E37AAA",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2304,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_trainers_scouters_2.jpg",
+                      "publicPath":  "public/media/wordpress/2304-soccerxcamp_trainers_scouters_2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  134773,
+                      "sha256":  "41E82983831796696129028B42DFA00153BBD0268C7596917B26E0DA826724F0",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2305,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_7.jpg",
+                      "publicPath":  "public/media/wordpress/2305-soccerxcamp_players_scouters_7.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  114538,
+                      "sha256":  "AD04A33D2AF27E3CF02762C594DF9E895CF6222BBD6F6748C59B7A55AB6FABC8",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2306,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/449317513_431593099848824_4804474710527817086_n.jpg",
+                      "publicPath":  "public/media/wordpress/2306-449317513_431593099848824_4804474710527817086_n.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  189639,
+                      "sha256":  "B8D68F17CCD7222F55D73058DC5A00301600059A3A1DF045C82778F2A7B99CC2",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2307,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_3.jpg",
+                      "publicPath":  "public/media/wordpress/2307-soccerxcamp_players_3.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  83477,
+                      "sha256":  "3C189444215E6B860A5DF588006BC2F961EA69A68F01BEB25DEBBB82678632F0",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2308,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_4.jpg",
+                      "publicPath":  "public/media/wordpress/2308-soccerxcamp_players_4.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  193655,
+                      "sha256":  "F9396393C9CA020B2DB627B9D302FC36C032FA5C2551D1C34AD7BE06108250E0",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2309,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_5.jpg",
+                      "publicPath":  "public/media/wordpress/2309-soccerxcamp_players_scouters_5.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  98207,
+                      "sha256":  "55F15741E9619F794A2DDAD3C4F2FFF3A256C9D423355ABB57B2A979C463202C",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2310,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_14.jpg",
+                      "publicPath":  "public/media/wordpress/2310-soccerxcamp_players_14.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  181685,
+                      "sha256":  "4F827E9ABADEECB99C3047AF334F766199F94E3BA0AB26E3FB035A95F5F0EAB3",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2311,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_2.jpg",
+                      "publicPath":  "public/media/wordpress/2311-soccerxcamp_players_2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  99686,
+                      "sha256":  "CAA4F7275149B09D4B839D09F74906EA4E8C1B2792D2755851C4C295792274B9",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2312,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_trainers_scouters_4.jpg",
+                      "publicPath":  "public/media/wordpress/2312-soccerxcamp_trainers_scouters_4.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  290728,
+                      "sha256":  "694257D07D517BDE00D79003D841B9B550C6F1D9BF0EBEBD9A418C19DA9989EF",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2313,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_6.jpg",
+                      "publicPath":  "public/media/wordpress/2313-soccerxcamp_players_scouters_6.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  137646,
+                      "sha256":  "4B3513E345BF29C60E797B16DFBF8779B760ED1848F4894DE0A24E437F23FF92",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2314,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_8.jpg",
+                      "publicPath":  "public/media/wordpress/2314-soccerxcamp_players_scouters_8.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  125668,
+                      "sha256":  "5AF4442ACA87B78FC4DFF64D7AB2B748E8F6480ECCA00E05BE92286E3227A702",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2315,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_1.jpg",
+                      "publicPath":  "public/media/wordpress/2315-soccerxcamp_players_1.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  104249,
+                      "sha256":  "CF00E692EED9EA102053971241D645030AE1CF2453574A292F64CAA371F80F27",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2316,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_9.jpg",
+                      "publicPath":  "public/media/wordpress/2316-soccerxcamp_players_9.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  195245,
+                      "sha256":  "BDB7A5B60C0A9C10F881A6BA0B166D0D60278307F7D492BD03156EB666D66534",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2317,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_trainers_scouters_3.jpg",
+                      "publicPath":  "public/media/wordpress/2317-soccerxcamp_trainers_scouters_3.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  139185,
+                      "sha256":  "720213E9189D871C924B6797900303F3BC00CE8F5FE0AB274588BA0EF1DED7B9",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2318,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_6.jpg",
+                      "publicPath":  "public/media/wordpress/2318-soccerxcamp_players_6.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  66514,
+                      "sha256":  "D7A05B87A137B40C486955AE776346711DBC3C254FE3EA2B016D0D34F14DC927",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2319,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_1.jpg",
+                      "publicPath":  "public/media/wordpress/2319-soccerxcamp_players_scouters_1.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  193885,
+                      "sha256":  "7760B746A9254172157043419AF9A79634968D2A00D848AA157F457B0197B9E6",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2320,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_8.jpg",
+                      "publicPath":  "public/media/wordpress/2320-soccerxcamp_players_8.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  207066,
+                      "sha256":  "08D5216DD28EFECBFD6EB97F463C05F59924F2434CF31745B49EB9FA695350E1",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2339,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/07/soccerxcamp_players_scouters_4-1.jpg",
+                      "publicPath":  "public/media/wordpress/2339-soccerxcamp_players_scouters_4-1.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  70123,
+                      "sha256":  "A49956D727C4A4424B7714B25DEB9F946A05455209E8BAA5772561ACAC9D32BB",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2376,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/h-heyerlein-199092-unsplash.jpg",
+                      "publicPath":  "public/media/wordpress/2376-h-heyerlein-199092-unsplash.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  228944,
+                      "sha256":  "852153524B7793C70026DC991274141FCE8A01CBF79F3CC2F71F7D822B5CA588",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2379,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/mimi-thian-737711-unsplash.jpg",
+                      "publicPath":  "public/media/wordpress/2379-mimi-thian-737711-unsplash.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  98568,
+                      "sha256":  "CA3FA64E397C618D1181883A558E272E542C4B3FC1DA0174F5EA68F48DB65512",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2380,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/nesa-by-makers-701360-unsplash.jpg",
+                      "publicPath":  "public/media/wordpress/2380-nesa-by-makers-701360-unsplash.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  102207,
+                      "sha256":  "493C13F3FED526C99383F9E31D1F0F638401767A638318255233F9DD40929120",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2401,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/lee-miller-47629-unsplash.jpg",
+                      "publicPath":  "public/media/wordpress/2401-lee-miller-47629-unsplash.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  456847,
+                      "sha256":  "6C0C97DC73F282ACDF17702CE99B90EF4C2525AE8FB3BCF1237ED11E5F788000",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2402,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/placeholder.png",
+                      "publicPath":  "public/media/wordpress/2402-placeholder.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  6146,
+                      "sha256":  "1A8352B9372452AB024B5DFD3C74CD8FAC2C84E7FF152879F83949C4707FD87E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2403,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/placeholder-1.png",
+                      "publicPath":  "public/media/wordpress/2403-placeholder-1.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  6269,
+                      "sha256":  "4D5ADA46945FC7702E5BA0FE59B9D6694984362F2F0D006E55EB19CABE0DEAB1",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2409,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/soccerx-trials-post.jpg",
+                      "publicPath":  "public/media/wordpress/2409-soccerx-trials-post.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  107445,
+                      "sha256":  "8100E18B2D44581FD5042DD4FDF94EDC9A21BB8EE1B4C40580152A636D6F4CEB",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2410,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/soccerxtrials_story.jpg",
+                      "publicPath":  "public/media/wordpress/2410-soccerxtrials_story.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  110900,
+                      "sha256":  "E9FA7E8DF7122ABDF9D7D800C99E7AC2B0200886526A09EE319770E823B9CE1E",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2411,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/SOCCERX_TRIALS_final.jpg",
+                      "publicPath":  "public/media/wordpress/2411-SOCCERX_TRIALS_final.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  53855,
+                      "sha256":  "D0E43DBFA6C9A593FBB25B52301B4AEDAC49E1F6C91ECD9CD229DA538556A798",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2412,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/dot.png",
+                      "publicPath":  "public/media/wordpress/2412-dot.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  945,
+                      "sha256":  "789019A7701E94A7E5DBD80F5D1BC4943F6E92FFDEC77BCCE0A212BE68D3333F",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2413,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/lion-animal-nature-predator-40835.jpeg",
+                      "publicPath":  "public/media/wordpress/2413-lion-animal-nature-predator-40835.jpeg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  23595,
+                      "sha256":  "C32C669189F45B03FF22DCC3A0261948B40A775DF20F499DC43B18522E3F2BA7",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2416,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/fun4you.jpg",
+                      "publicPath":  "public/media/wordpress/2416-fun4you.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  183223,
+                      "sha256":  "7ECFABAC8D69DA941E02C52EE36C3F484559A1A769CE0262DEA73AD45B177C70",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2417,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/linebgoverlay.png",
+                      "publicPath":  "public/media/wordpress/2417-linebgoverlay.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  12089,
+                      "sha256":  "2E42087EBCD8C9E5570ABACC3149A79A1945B4A192579022983E898D121DEE68",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2518,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/maragozidis_soccerandmore2.jpg",
+                      "publicPath":  "public/media/wordpress/2518-maragozidis_soccerandmore2.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  150268,
+                      "sha256":  "43ADDAA1FD7BEB7D6CA4ADF6CE397C10D801A8D8522EC03A7FB3F87B6191477A",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2519,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/maragozidis_soccerandmore.jpg",
+                      "publicPath":  "public/media/wordpress/2519-maragozidis_soccerandmore.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  134834,
+                      "sha256":  "377DAB72D3842D1682387C977C1623C970D0D7A5A6EDEDE9330618281113D451",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2567,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2024/11/maragozidis_soccerandmore3.jpg",
+                      "publicPath":  "public/media/wordpress/2567-maragozidis_soccerandmore3.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  120130,
+                      "sha256":  "4DC3EF4DF612DB30E6887AE0EEC53B1DFB5DABBC525C5B11AE84A7446AEE890C",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2588,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2025/12/1.jpg",
+                      "publicPath":  "public/media/wordpress/2588-1.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  52588,
+                      "sha256":  "FA5C3C88B26722A439FFD241BF52859D6F6EEE2E03A10930DD6F47FFD560C307",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2589,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2025/12/soccerx_trials_26.png",
+                      "publicPath":  "public/media/wordpress/2589-soccerx_trials_26.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  241855,
+                      "sha256":  "4DA3B156514A92A58C592DCEE01BA1A2D9C6CF3C69883EEB2983E6607AB63D71",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2666,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2025/12/soccerXcamp_26_converted.webp",
+                      "publicPath":  "public/media/wordpress/2666-soccerXcamp_26_converted.webp",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/webp",
+                      "bytes":  47022,
+                      "sha256":  "E4ECEAA2C7E0ACBFAFCEC22919B920CB41148B739DCA315CE5A78AFDB7BF2F67",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2673,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2025/12/soccerXcamp_26_converted_1.webp",
+                      "publicPath":  "public/media/wordpress/2673-soccerXcamp_26_converted_1.webp",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/webp",
+                      "bytes":  47022,
+                      "sha256":  "E4ECEAA2C7E0ACBFAFCEC22919B920CB41148B739DCA315CE5A78AFDB7BF2F67",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2678,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2026/01/soccerxcamp_april_trails_germany_main.jpg",
+                      "publicPath":  "public/media/wordpress/2678-soccerxcamp_april_trails_germany_main.jpg",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/jpeg",
+                      "bytes":  52588,
+                      "sha256":  "FA5C3C88B26722A439FFD241BF52859D6F6EEE2E03A10930DD6F47FFD560C307",
+                      "error":  null
+                  },
+                  {
+                      "wordpressId":  2679,
+                      "sourceUrl":  "https://www.soccerxcamp.com/wp-content/uploads/2026/01/soccerxcamp_april_trails_germany_main_2.png",
+                      "publicPath":  "public/media/wordpress/2679-soccerxcamp_april_trails_germany_main_2.png",
+                      "status":  "published-verified",
+                      "detectedMimeType":  "image/png",
+                      "bytes":  241855,
+                      "sha256":  "4DA3B156514A92A58C592DCEE01BA1A2D9C6CF3C69883EEB2983E6607AB63D71",
+                      "error":  null
+                  }
+              ]
+}

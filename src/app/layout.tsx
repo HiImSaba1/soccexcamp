@@ -12,6 +12,7 @@ import "./story-system.css";
 import "./canvas-system.css";
 import "./form-system.css";
 import "./motion-system.css";
+import "./home-editorial-system.css";
 import "yet-another-react-lightbox/styles.css";
 
 const inter = localFont({
